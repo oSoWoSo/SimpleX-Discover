@@ -1,11 +1,32 @@
-# SimpleX User Groups (Index)
+# SimpleX User Groups
+##### Index of participating public group chats
 
-Open to ideas on this whole idea. This list currently just includes some server, which are the current unambiguously known "public" groups or an individually shared private groups.
+#### Your Ideas Are Welcome
+Open to ideas on this whole idea itself, even if it should be entirely replaced.
 
-Also, this is a honeypot for spam and particularly without moderation, which simplex is not designed for, this index and room discovery in general are pointless and, if anything at all, undermine or even harm the concept that SimpleX aims to providr. 
+#### What does this index do
+This list currently just includes some groups, which are the current unambiguously known "public" groups most people have seen, or maybe also individually shared lesser knowm private groups.
 
-Finally, plans are to move this repository to Codeberg and maintain it by using only tor connections for greater anonymity
+#### Is it reliable and stable?
+Links can rotate, so this index is by no means stable or reliable, increasing with the number of groups listed that have to be verfified to have a working link.
 
+#### The main Danger that makes this probably unworthwhile
+Also, this is a honeypot for spam and particularly without moderation, which simplex is not designed for, this index and room discovery in general are pointless and, if anything at all, undermine or even harm the concept that SimpleX aims to provide, which aims as little discovery and reachability whereever possible.
+
+#### Privacy (Policy)
+As a result, you would in no way be sacrificing you group's privacy (even if you don't trust me), as the link can be regenerated. You can reach me anonymously on my (current) [SimpleX Contact Address](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion), which is of course 100% preferable over GitHub
+
+#### Roadmap & Future
+This index is not planned for any particular future project, nor becoming something stable, time will show the trajectory of this repo. Of course, I will never abandon this repo and account but will, if it comes to it, delete all data entirely.
+
+#### Using this project repo
+Issues, Pull requests, Discussions, Forks and all may be of use, try to utilize these features if you like
+
+#### Possible migration/transfer
+Finally, plans are to move this repository to Codeberg or somewhere else, and maintain it  using only tor connections for greater anonymity to the one maintaining this index.
+
+#### Contact
+My SimpleX Contact for inquiries (please don't use GitHub for a simple message+link): [Contact Address](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion)
 
 ---
 
@@ -38,5 +59,5 @@ Finally, plans are to move this repository to Codeberg and maintain it by using 
 - ~~**Coding Simpletons**~~: [#CodingSimpletons]() (Link missing)
 
 
- 
+## Contribute
 If you want your group listed (or delisted), feel free to contact me on GitHub. You should already know what the implications are when adding rooms to an index, so please think carefully!
