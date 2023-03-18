@@ -1,4 +1,4 @@
-# Index of SimpleX Groups and Communitiies
+# SimpleX User Groups (Index)
 
 Open to ideas on this whole idea. This list currently just includes some server, which are the current unambiguously known "public" groups or an individually shared private groups.
 
@@ -24,7 +24,7 @@ Finally, plans are to move this repository to Codeberg and maintain it by using 
 
 - ***4chan Mirror (Index)*** (by Vsevolov Mineev; e.g. **/a/** (Anime & Manga), etc): [4chan-simplex-mirror](https://github.com/vsevolod-mineev/4chan-simplex-mirror/)
 
-- **Drugs** (Experimental; "sensitive group"): [#Drugs-Discussion]()
+- **Drugs** (Experimental, "sensitive"): [#Drugs-Discussion](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FRuPulBfXSepbYLLFedR60n4kvPynfVe1%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAdQowc4FVnNc33qNZl-p5cU9vBGZF0T-bSE5gkpQdrGM%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gWlQ_-kmZhTwt3l_RDJUNg%3D%3D%22%7D)
 
 - **Redefreiheit** (German/DE): [#Redefreiheit](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2F8MpVA_kKLv2ZVxwaFLaQ4copmko7RBt2%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAluTxfRTwl3LqRBADgVsf6jCol-4_Uh_RuofzgQE9lDM%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22S7VHEMlJJFVeGOeMez9lnQ%3D%3D%22%7D)
 
