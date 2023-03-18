@@ -5,6 +5,8 @@ Open to ideas on this whole idea. This list currently just includes some server,
 Also, this is a honeypot for spam and particularly without moderation, which simplex is not designed for, this index and room discovery in general are pointless and, if anything at all, undermine or even harm the concept that SimpleX aims to providr. 
 
 
+---
+
 
 ## Some SimpleX Groups
 
@@ -29,6 +31,8 @@ LINK NEEDED ~~**Plauderdecke**~~ (German/DE): [#Plauderdecke]()
 
 LINK NEEDED ~~**Coding Simpletons**~~: [#CodingSimpletons]()
 
+
+---
 
  
 If you want your group listed, feel free to contact me. You should already know what the implications are when adding rooms to an index, so please think carefully!
