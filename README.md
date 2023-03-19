@@ -1,20 +1,25 @@
 # SimpleX User Groups
-##### Index of participating public group chats
+#### Index of [global/public/"our"/{communityX}-associated] SimpleX user groups.
+
+
+### Premable.. mumble..?
+This is a highly experimental project with no future plans, as it's already a terminally ill concept in it's deathbed.
+
+#### The Danger that makes this pointless and even harmful
+This is a honeypot for the spammers that eventually will come, particularly without any strong moderation tools. SimpleX is not built for the use of moderating tools, as these would defeat the purpose of creating fully anonymous groups in addition to freedom in what you want to say. 
+Thus, indexes and discovery channels completely void SimpleX untilizing its properties that make groups completely private annd unidentifiable undermine and even misuse the concept that SimpleX conveys, which aims complete isolation from discovery methods and any reachability outside of your contacts.
+
+#### Privacy (Policy)
+As a result, you would at least still not sacrifice your group's privacy, as a new link can always be regenerated. You can reach me anonymously: [SimpleX Contact Address](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion), which is 100% preferable over GitHub
 
 #### Your Ideas Are Welcome
-Open to ideas on this whole idea itself, even if it should be entirely replaced.
+I'm open to share ideas on this whole project, even if it would be completely remade anew.
 
-#### What does this index do
-This list currently just includes some groups, which are the current unambiguously known "public" groups most people have seen, or maybe also individually shared lesser knowm private groups.
+#### What Index Will We Be Using?  TODO
+This list currently just includes pretty much the current biggesr groups, which are the current unambiguously known "public" groups most people have seen, or maybe also individually shared lesser knowm private groups.
 
 #### Is it reliable and stable?
 Links can rotate, so this index is by no means stable or reliable, increasing with the number of groups listed that have to be verfified to have a working link.
-
-#### The main Danger that makes this probably unworthwhile
-Also, this is a honeypot for spam and particularly without moderation, which simplex is not designed for, this index and room discovery in general are pointless and, if anything at all, undermine or even harm the concept that SimpleX aims to provide, which aims as little discovery and reachability whereever possible.
-
-#### Privacy (Policy)
-As a result, you would in no way be sacrificing you group's privacy (even if you don't trust me), as the link can be regenerated. You can reach me anonymously on my (current) [SimpleX Contact Address](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion), which is of course 100% preferable over GitHub
 
 #### Roadmap & Future
 This index is not planned for any particular future project, nor becoming something stable, time will show the trajectory of this repo. Of course, I will never abandon this repo and account but will, if it comes to it, delete all data entirely.
