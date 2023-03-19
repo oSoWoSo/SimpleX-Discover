@@ -38,7 +38,7 @@ My SimpleX Contact for inquiries: [Contact Address](https://simplex.chat/contact
 
 ## Public Groups, Communities and Lists
 
-- **Official SimpleX User Groups** (***SimpleX-Group-2, DE, FR, IT, RU***): [SimpleX *#join-a-user-group* (GitHub)](https://github.com/simplex-chat/simplex-chat#join-a-user-group)
+- **Official SimpleX User Groups** SimpleX(***-Group-2, -DE, -FR, -IT and -RU***): [SimpleX *#join-a-user-group* (GitHub)](https://github.com/simplex-chat/simplex-chat#join-a-user-group)
 
 - **Group Discovery** (healthy): [#SimpleX-Group-Discovery](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FsHrzZf5-VZxW2xQS3kG2JU3iB1S0Vszi%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAo3PH2owiHH5gSpSpqyLuMxBGF4Cv1QmKbDkR49fcGik%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22ynFLa945rngYvbBe451I8Q%3D%3D%22%7D)
 
@@ -46,7 +46,7 @@ My SimpleX Contact for inquiries: [Contact Address](https://simplex.chat/contact
 
 - **Memes** (v2.0; mostly tech-oriented): [#Memes_v2.0](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FkQRe9d-mVxSBld7UCVdgLm903KPrI7K0%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEATCT6UT-Mn5RzDpnOVr0PkvjW7JZ5FXUK6QZ9kNbtFhQ%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22EFzuE3Va-k3ZCU_Artvwiw%3D%3D%22%7D)
 
-- **GrapheneOS** (unofficial): [#Graphene-OS]() (Link missing)
+- **GrapheneOS** (unofficial): [#GrapheneOS(unofficial)]() (Link missing)
 
 - ***4chan Mirror*** (An index of 4chan boards groups. By [Vsevolov Mineev](https://github.com/vsevolod-mineev/): [4chan Simplex Mirror (GitHub)](https://github.com/vsevolod-mineev/4chan-simplex-mirror/)
     - Boards: **/a/** (Anime & Manga), **/b/** (Random), more TBA)
@@ -59,10 +59,11 @@ My SimpleX Contact for inquiries: [Contact Address](https://simplex.chat/contact
 
 #### Not yet asked if want to be listed
 
-- ~~**Plauderdecke**~~ (German): [#Plauderdecke]() (Link missing)
+- **Plauderdecke** (German): [#Plauderdecke]() (Link missing)
 
-- ~~**Coding Simpletons**~~: [#CodingSimpletons]() (Link missing)
+- **Coding Simpletons**: [#CodingSimpletons]() (Link missing)
 
 
 ## Contribute
-If you want your group listed (or delisted), feel free to contact me on GitHub. You should already know what the implications are when adding rooms to an index, so please think carefully!
+If you want your group listed (or delisted), feel free to contact me on my SimpleX profile particularly
+preferentially. You should already know what the implications are when adding rooms to this index, so please think carefully!
