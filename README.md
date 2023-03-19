@@ -1,5 +1,5 @@
 # SimpleX User Groups
-#### Index of [global/public/"our"/{communityX}-associated] SimpleX user groups.
+#### Index of [public/my/communityX] SimpleX user groups.
 
 
 ### Premable.. mumble..?
@@ -21,19 +21,14 @@ This list currently just includes pretty much the current biggesr groups, which 
 #### Is it reliable, stable?
 Links can rotate, so this index is by no means reliable at any given time, This problem increases, as the amount of links increases.
 
-
 #### Roadmap & Future
 This index is not planned for any particular future project, nor becoming a stable index at all, which is probably not very easy. If it comes to it, I'll delete all data in a request or entirely if suspended
-
-
 
 #### Using this project repo
 Issues, Pull requests, Discussions, Forks; try to utilize these features if you can .
 
-
 #### Possible migration/transfer
 Finally, plans are to move this repository to Codeberg or somewhere else, and maintain it using only tor connections for greater anonymity.
-
 
 #### Contact
 My SimpleX Contact for inquiries: [Contact Address](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion)
