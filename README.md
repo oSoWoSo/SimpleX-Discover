@@ -54,7 +54,7 @@ My SimpleX Contact for inquiries: [Contact Address](https://simplex.chat/contact
 - **GrapheneOS** (unofficial): [#Graphene-OS]() (Link missing)
 
 - ***4chan Mirror*** (An index of 4chan boards groups. By [Vsevolov Mineev](https://github.com/vsevolod-mineev/): [4chan Simplex Mirror (GitHub)](https://github.com/vsevolod-mineev/4chan-simplex-mirror/)
-    - Boards: **/a/** (Anime & Manga), **/b/** (NSFW), **/d/** (NSFW), **/gif/** (NSFW), more TBA)
+    - Boards: **/a/** (Anime & Manga), **/b/** (Random), more TBA)
 
 - **Drugs** (Experimental. "Sensitive topic" in testing): [#Drugs-Discussion](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FRuPulBfXSepbYLLFedR60n4kvPynfVe1%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAdQowc4FVnNc33qNZl-p5cU9vBGZF0T-bSE5gkpQdrGM%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gWlQ_-kmZhTwt3l_RDJUNg%3D%3D%22%7D)
     - Aims to achieve non-dangerous users and anecdotes, with minimal moderation
