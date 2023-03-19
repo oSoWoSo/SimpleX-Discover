@@ -13,25 +13,30 @@ Thus, indexes and discovery channels completely void SimpleX untilizing its prop
 As a result, you would at least still not sacrifice your group's privacy, as a new link can always be regenerated. You can reach me anonymously: [SimpleX Contact Address](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion), which is 100% preferable over GitHub
 
 #### Your Ideas Are Welcome
-I'm open to share ideas on this whole project, even if it would be completely remade anew.
+I'm open to share ideas, even if it would completely be remaked.
 
-#### What Index Will We Be Using?  TODO
-This list currently just includes pretty much the current biggesr groups, which are the current unambiguously known "public" groups most people have seen, or maybe also individually shared lesser knowm private groups.
+#### What will be included?
+This list currently just includes pretty much the current biggesr groups, which are the currently occupied, handful of "public" groups. Maybe lesser knowm private groups too, but that is an unlikely scenario where that brings actual benefit.
 
-#### Is it reliable and stable?
-Links can rotate, so this index is by no means stable or reliable, increasing with the number of groups listed that have to be verfified to have a working link.
+#### Is it reliable, stable?
+Links can rotate, so this index is by no means reliable at any given time, This problem increases, as the amount of links increases.
+
 
 #### Roadmap & Future
-This index is not planned for any particular future project, nor becoming something stable, time will show the trajectory of this repo. Of course, I will never abandon this repo and account but will, if it comes to it, delete all data entirely.
+This index is not planned for any particular future project, nor becoming a stable index at all, which is probably not very easy. If it comes to it, I'll delete all data in a request or entirely if suspended
+
+
 
 #### Using this project repo
-Issues, Pull requests, Discussions, Forks and all may be of use, try to utilize these features if you like
+Issues, Pull requests, Discussions, Forks; try to utilize these features if you can .
+
 
 #### Possible migration/transfer
-Finally, plans are to move this repository to Codeberg or somewhere else, and maintain it  using only tor connections for greater anonymity to the one maintaining this index.
+Finally, plans are to move this repository to Codeberg or somewhere else, and maintain it using only tor connections for greater anonymity.
+
 
 #### Contact
-My SimpleX Contact for inquiries (please don't use GitHub for a simple message+link): [Contact Address](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion)
+My SimpleX Contact for inquiries: [Contact Address](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion)
 
 ---
 
