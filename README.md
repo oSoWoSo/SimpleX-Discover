@@ -3,6 +3,10 @@
 
 *This repo is designed to list some of the common "public" groups that are currently known around and within the community, or at least those on my end. It is implicitly not meat to be a completed reference of the all, or even many groups. Having such a list defeats both the intended, inherent anonymity of group chats, which are designed to keep even their group links accessible to only a limited amount of people. A group chat, in most cases, does not benefit desireably this way.*
 
+*The section below can be skipped actually, some of it is rambling too much haha.
+
+---
+
 ### Premable.. mumble..?
 This is a highly experimental project with no future plans, as it's already a terminally ill concept in it's deathbed.
 
@@ -31,11 +35,11 @@ Issues, Pull requests, Discussions, Forks; try to utilize these features if you 
 #### Possible migration/transfer
 Finally, plans are to move this repository to Codeberg or somewhere else, and maintain it using only tor connections for greater anonymity.
 
-#### Contact
-My SimpleX Contact for inquiries: [Contact Address](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion)
-
 ---
 
+#### Contact
+My SimpleX Contact: [Contact Address](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion)
+   - Do let me know if the link always connects instantly put not.
 
 ## Public Groups, Communities and Lists
 
@@ -50,13 +54,16 @@ My SimpleX Contact for inquiries: [Contact Address](https://simplex.chat/contact
 - **GrapheneOS** (unofficial): [#GrapheneOS(unofficial)]() (Link missing)
 
 - ***4chan Mirror*** (An index of 4chan boards groups. By [Vsevolov Mineev](https://github.com/vsevolod-mineev/): [4chan Simplex Mirror (GitHub)](https://github.com/vsevolod-mineev/4chan-simplex-mirror/)
-    - Boards: **/a/** (Anime & Manga), **/b/** (Random), more TBA)
+    - Boards: **/a/** (Anime & Manga), **/b/** (Random), **/pol/** and more (NSFW). Invite links are online 24/7)
 
 - **Drugs** (Experimental. "Sensitive topic" in testing): [#Drugs-Discussion](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FRuPulBfXSepbYLLFedR60n4kvPynfVe1%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAdQowc4FVnNc33qNZl-p5cU9vBGZF0T-bSE5gkpQdrGM%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gWlQ_-kmZhTwt3l_RDJUNg%3D%3D%22%7D)
     - Aims to achieve non-dangerous users and anecdotes, with minimal moderation
 
 - **Redefreiheit** (German): [#Redefreiheit](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2F8MpVA_kKLv2ZVxwaFLaQ4copmko7RBt2%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAluTxfRTwl3LqRBADgVsf6jCol-4_Uh_RuofzgQE9lDM%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22S7VHEMlJJFVeGOeMez9lnQ%3D%3D%22%7D)
 
+- **SimpleX Desktop**: []()
+
+- **SimpleX Status Bot**: []()
 
 #### Not yet asked if want to be listed
 
