@@ -61,9 +61,9 @@ My SimpleX Contact: [Contact Address](https://simplex.chat/contact#/?v=1-2&smp=s
 
 - **Redefreiheit** (German): [#Redefreiheit](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2F8MpVA_kKLv2ZVxwaFLaQ4copmko7RBt2%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAluTxfRTwl3LqRBADgVsf6jCol-4_Uh_RuofzgQE9lDM%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22S7VHEMlJJFVeGOeMez9lnQ%3D%3D%22%7D)
 
-- **SimpleX Desktop**: []()
+- **SimpleX Desktop**: [#SimpleX-Desktop]()
 
-- **SimpleX Status Bot**: []()
+- **SimpleX Status Bot**: [@SimpleX-Status](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FShQuD-rPokbDvkyotKx5NwM8P3oUXHxA%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6fSx1k9zrOmF0BJpCaTarZvnZpMTAVQhd3RkDQ35KT0%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion)
 
 #### Not yet asked if want to be listed
 
