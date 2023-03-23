@@ -1,6 +1,7 @@
 # SimpleX User Groups
-#### Index of [public/my/communityX] SimpleX user groups.
+#### Index of (public) SimpleX user groups.
 
+*This repo is designed to list some of the common "public" groups that are currently known around and within the community, or at least those on my end. It is implicitly not meat to be a completed reference of the all, or even many groups. Having such a list defeats both the intended, inherent anonymity of group chats, which are designed to keep even their group links accessible to only a limited amount of people. A group chat, in most cases, does not benefit desireably this way.*
 
 ### Premable.. mumble..?
 This is a highly experimental project with no future plans, as it's already a terminally ill concept in it's deathbed.
