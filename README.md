@@ -65,11 +65,11 @@ My SimpleX Contact: [Contact Address](https://simplex.chat/contact#/?v=1-2&smp=s
 
 - **SimpleX Status Bot**: [@SimpleX-Status](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FShQuD-rPokbDvkyotKx5NwM8P3oUXHxA%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6fSx1k9zrOmF0BJpCaTarZvnZpMTAVQhd3RkDQ35KT0%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion)
 
-#### Not yet asked if want to be listed
+- **DistroHopper** (In beta, dh.osowoso.xyz): [#DistroHopper](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FzmtsZwfTjwyynibt0bF6bb_xLWS9ce5A%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAkMtz66wGfWb6VDn-_t_mVm3RFiFfOC3Hxye8Hm5tmVo%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22o8KR0TOM0f2j33nO9goMRQ%3D%3D%22%7D)
 
-- **Plauderdecke** (German): [#Plauderdecke]() (Link missing)
+- **Plauderdecke** (German): [#Plauderdecke](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FfEZiZCku7vUPzOrYWVv7OwAuT0rVuGiK%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAHdeYale0PSLrReb86PlPEoqiFCvtpJIja_an20nxf1E%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22TSMQES54wzVCw90BISJWkw%3D%3D%22%7D)
 
-- **Coding Simpletons**: [#CodingSimpletons]() (Link missing)
+- **Coding Simpletons**: [#CodingSimpletons](https://simplex.chat/contact/#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FR8rllvSswg5Eh91jpwMLiN2JuntZlDMT%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqpe1QzxZYefxyPc15XCov57Fzte9-VFXvG1BkjvtHyk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B"type"%3A"group"%2C"groupLinkId"%3A"q4NyqbDnyCUyQ347Hr2aJg%3D%3D"%7D), [#CodingSimpletons (Mirror)](https://simplex.chat/contact/#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FR8rllvSswg5Eh91jpwMLiN2JuntZlDMT%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqpe1QzxZYefxyPc15XCov57Fzte9-VFXvG1BkjvtHyk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22q4NyqbDnyCUyQ347Hr2aJg%3D%3D%22%7D)
 
 
 ## Contribute
