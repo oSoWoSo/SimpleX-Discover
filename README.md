@@ -1,13 +1,13 @@
 # SimpleX - User Groups: Index
-#### List of Communities, Group Chats, Bots and More.
+### List of Communities, Group Chats, Bots and More.
 
-*This repo lists some common "public" group chats that are currently most well known within the community (or on my end).!*
+This repo lists some common "public" group chats that are currently most well known within the community (or on my end). It is implicitly not meant to be or evolve into a full index of every or most group chats on the platfom. It defeats intrinsic anonymity for private group chats.
 
-*This list is implicitly not meant to be or become a full reference of every or most major groups. Having a global list defeats the intrinsic anonymity which group chats provide, particularly private groups (until public groups come, or contact addreses will not be available anymore)
+*(The section below can be skipped actually, some of it is rambling too much haha.)*
 
----
 
-*The section below can be skipped actually, some of it is rambling too much haha.
+
+# Purpose
 
 ### Premable.. mumble..?
 This is a highly experimental project with no future plans, as it's already a terminally ill concept in it's deathbed.
