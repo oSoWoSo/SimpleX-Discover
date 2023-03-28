@@ -83,6 +83,7 @@ Also looking for maybe another contributor trusted to manage new requests in the
 
 - **Coding Simpletons**: [#CodingSimpletons](https://simplex.chat/contact/#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FR8rllvSswg5Eh91jpwMLiN2JuntZlDMT%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqpe1QzxZYefxyPc15XCov57Fzte9-VFXvG1BkjvtHyk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B"type"%3A"group"%2C"groupLinkId"%3A"q4NyqbDnyCUyQ347Hr2aJg%3D%3D"%7D), [#CodingSimpletons (Mirror)](https://simplex.chat/contact/#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FR8rllvSswg5Eh91jpwMLiN2JuntZlDMT%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqpe1QzxZYefxyPc15XCov57Fzte9-VFXvG1BkjvtHyk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22q4NyqbDnyCUyQ347Hr2aJg%3D%3D%22%7D)
 
+- [#opensource](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FiYCPu4p9eEAioivL1Rb8670g0pE8Z3j2%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAmzlao6lhMBW1nb-IcwFln_05rzW88dgJv2Es7_sm-wI%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22AjvQGK8S2x5Ef5EZ8aDYOA%3D%3D%22%7D) - Open source Community
 
 ## Contribute
 If you want your group listed (or delisted), feel free to contact me on my SimpleX profile particularly
