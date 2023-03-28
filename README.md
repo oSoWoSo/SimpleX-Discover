@@ -18,8 +18,7 @@ Any publically or privately accessible list of users is a honeypot for spam acco
 
 This means that indexes, lists and "discovery" channels all void SimpleX utilizing private invite methods which can be limited to e.g. one person or less. This undermines a group's privacy and may even misjudge what SimpleX conveys with private groups, which are hidden by default from any discovery methods or random guesses.
 
-TODO##################################################################################
-
+TODO###
 
 #### Which Groups Are Listed?
 This list currently just includes pretty much the current biggesr groups, which are the currently occupied, handful of "public" groups. Maybe lesser knowm private groups too, but that is an unlikely scenario where that brings actual benefit.
