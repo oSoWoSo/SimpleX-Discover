@@ -14,34 +14,9 @@ This is a highly experimental project with no future plans, as it's already a te
 
 ### Why an Index is Pointless
 ##### Or Falsely Portrays How Actual Group Connection Works
-Any publically or privately accessible list of users is a honeypot for spam accounts, those eventually will come. SimpleX only uses minimal moderation tools in its groups, in fact, these act against the conceptual open, private and anonymous groups. Consequentially, this allows spammers with the group link to join or rejoin freely.
+Any publically or privately accessible list of users is a honeypot for spam accounts, those eventually will come. SimpleX only uses minimal moderation tools in its groups, in fact, these act against the conceptual open, private and anonymous groups.
 
 This means that indexes, lists and "discovery" channels all void SimpleX utilizing private invite methods which can be limited to e.g. one person or less. This undermines a group's privacy and may even misjudge what SimpleX conveys with private groups, which are hidden by default from any discovery methods or random guesses.
-
-TODO###
-
-#### Which Groups Are Listed?
-This list currently just includes pretty much the current biggesr groups, which are the currently occupied, handful of "public" groups. Maybe lesser knowm private groups too, but that is an unlikely scenario where that brings actual benefit.
-
-#### Is it reliable, stable?
-Links can rotate, so this index is by no means reliable at any given time, This problem increases, as the amount of links increases.
-
-#### Roadmap & Future
-This index is not planned for any particular future project, nor becoming a stable index at all, which is probably not very easy. If it comes to it, I'll delete all data in a request or entirely if suspended
-
-#### Using this project repo
-Issues, Pull requests, Discussions, Forks; try to utilize these features if you can .
-
-#### Possible migration/transfer
-Finally, plans are to move this repository to Codeberg or somewhere else, and maintain it using only tor connections for greater anonymity.
-
-#### Privacy (Policy)
-As a result, you would at least still not sacrifice your group's privacy, as a new link can always be regenerated. You can reach me anonymously, which is 100% preferable over GitHub.
-
-#### Your Ideas Are Welcome
-I'm open to share ideas, even if it would completely be remaked.
-
----
 
 ### Contact to List/Delist your Group
 [**Contact Address (Anonymous)**](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion)
@@ -50,7 +25,6 @@ I'm open to share ideas, even if it would completely be remaked.
 Also looking for maybe another contributor trusted to manage new requests in their free time in case of any reason I would not be able to for a while. You can collaborate this GitHub repo directly.
 
 ---
-
 
 ## Public Groups, Communities and Lists
 
