@@ -47,7 +47,7 @@ Also looking for maybe another contributor trusted to manage new requests in the
 
 - **Coding Simpletons**: [#CodingSimpletons](https://simplex.chat/contact/#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FR8rllvSswg5Eh91jpwMLiN2JuntZlDMT%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqpe1QzxZYefxyPc15XCov57Fzte9-VFXvG1BkjvtHyk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B"type"%3A"group"%2C"groupLinkId"%3A"q4NyqbDnyCUyQ347Hr2aJg%3D%3D"%7D), [#CodingSimpletons (Mirror)](https://simplex.chat/contact/#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FR8rllvSswg5Eh91jpwMLiN2JuntZlDMT%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqpe1QzxZYefxyPc15XCov57Fzte9-VFXvG1BkjvtHyk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22q4NyqbDnyCUyQ347Hr2aJg%3D%3D%22%7D)
 
-- **DistroHopper** (in beta,[Homepage](dh.osowoso.xyz)): [#DistroHopper](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FzmtsZwfTjwyynibt0bF6bb_xLWS9ce5A%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAkMtz66wGfWb6VDn-_t_mVm3RFiFfOC3Hxye8Hm5tmVo%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22o8KR0TOM0f2j33nO9goMRQ%3D%3D%22%7D)
+- **DistroHopper** (in beta, [Homepage](dh.osowoso.xyz)): [#DistroHopper](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FzmtsZwfTjwyynibt0bF6bb_xLWS9ce5A%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAkMtz66wGfWb6VDn-_t_mVm3RFiFfOC3Hxye8Hm5tmVo%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22o8KR0TOM0f2j33nO9goMRQ%3D%3D%22%7D)
     - Quickly download, create and run VM of any#TODO operating system
 
 - **GrapheneOS** (unofficial): [#GrapheneOS(unofficial)]() (Link missing)
@@ -56,6 +56,8 @@ Also looking for maybe another contributor trusted to manage new requests in the
     - To talk about anything related to open source...
 
 - **Privacy and Security**: [#Privacy-&-Security](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FeB3_x6aWPRaet_4fsP02r6IKv5eWqVUZ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAycOPZL-OzabcVLxku7Vco3L5JTzDAIt2XMKrbEcpllA%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22TsKOOPffBF_ryxE1ULBV5g%3D%3D%22%7D)
+
+- **AI-Generated Art**: [#AIia](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FiTgecSRu7Tn2nmKkqqer_K4UTCHk1Pkg%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAbE3kQHYp4g4ZifHJb9ZJgkdY70oxDWccWtmrxhRqvEM%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22x8_OIXbIixmJdJr6lg-g4w%3D%3D%22%7D)
 
 ---
 
@@ -66,6 +68,8 @@ Also looking for maybe another contributor trusted to manage new requests in the
     - Aims to achieve non-dangerous users and anecdotes, with minimal moderation
 
 - **Memes** (v2.0; mostly tech-oriented): [#Memes_v2.0](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FkQRe9d-mVxSBld7UCVdgLm903KPrI7K0%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEATCT6UT-Mn5RzDpnOVr0PkvjW7JZ5FXUK6QZ9kNbtFhQ%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22EFzuE3Va-k3ZCU_Artvwiw%3D%3D%22%7D)
+
+- **Freedom of Speech**: [#FOS](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FROSeCcqgm0PmyZcFdJXjA2k_NrhcH1Cc%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqFwbiS0F0q4jfWeYFGkGdhvpcPHPepmNk_KmAsw1Hhk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Q3MWoSI8ScfSQymu5tEzKg%3D%3D%22%7D)
 
 ---
 
