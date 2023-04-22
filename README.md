@@ -38,6 +38,8 @@ Also looking for maybe another contributor trusted to manage new requests in the
 
 - **SimpleX Status Bot**: [@SimpleX-Status](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FShQuD-rPokbDvkyotKx5NwM8P3oUXHxA%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6fSx1k9zrOmF0BJpCaTarZvnZpMTAVQhd3RkDQ35KT0%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion)
 
+- **SimpleX UI/UX**: [#SimpleXUI/UX](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FwuWPTc2ATrNyjURCIekQgJDyppHNsMVz%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA_wdBAKcrCSUp0q7A5ny37kxzZeFpHHggNecEpshaVWs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%222cGPD4mD0BjOfEloabHgGA%3D%3D%22%7D)
+
 ---
 
 ### Software related
@@ -59,17 +61,26 @@ Also looking for maybe another contributor trusted to manage new requests in the
 
 - **AI-Generated Art**: [#AIia](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FiTgecSRu7Tn2nmKkqqer_K4UTCHk1Pkg%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAbE3kQHYp4g4ZifHJb9ZJgkdY70oxDWccWtmrxhRqvEM%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22x8_OIXbIixmJdJr6lg-g4w%3D%3D%22%7D)
 
+- **Nostr**: [#Nostr????]()
+
 ---
+
+- **Privacy Guides Public SimpleX Group**: [#PrivacyGuides.org](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FPGNt26rU5BMYuK12Mr1pEGB91eDlKSL4%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEADIjgDiQ322C_D4ELE4_ve0XxXy83P23DYkYNfe7VsEQ%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22YciIb0-XPxFpRmZgPRk4wg%3D%3D%22%7D)
+   - [Mirror (PrivacyGuides.org)](https://discuss.privacyguides.net/t/privacy-guides-public-simplex-group/12428)
 
 - ***4chan Mirror*** (An index of 4chan boards groups. By [Vsevolov Mineev](https://github.com/vsevolod-mineev/): [4chan Simplex Mirror (GitHub)](https://github.com/vsevolod-mineev/4chan-simplex-mirror/)
     - Boards: **/a/** (Anime & Manga), **/b/** (Random), **/pol/** and more (NSFW). Invite links are online 24/7)
 
 - **Drugs** (Experimental. "Sensitive topic" in testing): [#Drugs-Discussion](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FRuPulBfXSepbYLLFedR60n4kvPynfVe1%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAdQowc4FVnNc33qNZl-p5cU9vBGZF0T-bSE5gkpQdrGM%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gWlQ_-kmZhTwt3l_RDJUNg%3D%3D%22%7D)
     - Aims to achieve non-dangerous users and anecdotes, with minimal moderation
+    
+- ~~**Memes** (v2.0) #Memes_v2.0 (likely broken group, leave and join #Memes_v3.0 with the link below).~~
 
 - **Memes** (v3.0): [#Memes_v3.0](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2F11LgJOFSokzo4F9agUozmtKunnOntRor%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAAekKQhLpTizO1EBUKZr6ahY84YC8OIWNtvg1YqGlIFk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22oxGvr9H1DWcoO6-VooRJ8g%3D%3D%22%7D)
 
 - **Freedom of Speech**: [#FOS](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FROSeCcqgm0PmyZcFdJXjA2k_NrhcH1Cc%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqFwbiS0F0q4jfWeYFGkGdhvpcPHPepmNk_KmAsw1Hhk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Q3MWoSI8ScfSQymu5tEzKg%3D%3D%22%7D)
+
+- **Trans**: [#Trans????](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FMAdvewPQIBwAZlxkE61n61ZWxxX9OfWv%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAtHNgqSkNlGBbUtRTwG-JiorajB8sT7yB_iX0fl_Nrxg%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%222Z3R8ZVh3iEGyIpH8toMTw%3D%3D%22%7D)
 
 ---
 
