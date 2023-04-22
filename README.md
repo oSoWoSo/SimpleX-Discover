@@ -38,7 +38,7 @@ Also looking for maybe another contributor trusted to manage new requests in the
 
 - **SimpleX Status Bot**: [@SimpleX-Status](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FShQuD-rPokbDvkyotKx5NwM8P3oUXHxA%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6fSx1k9zrOmF0BJpCaTarZvnZpMTAVQhd3RkDQ35KT0%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion)
 
-- **SimpleX UI/UX**: [#SimpleXUI/UX](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FwuWPTc2ATrNyjURCIekQgJDyppHNsMVz%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA_wdBAKcrCSUp0q7A5ny37kxzZeFpHHggNecEpshaVWs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%222cGPD4mD0BjOfEloabHgGA%3D%3D%22%7D)
+- **SimpleX UI/UX**: [#🔵](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FwuWPTc2ATrNyjURCIekQgJDyppHNsMVz%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA_wdBAKcrCSUp0q7A5ny37kxzZeFpHHggNecEpshaVWs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%222cGPD4mD0BjOfEloabHgGA%3D%3D%22%7D)
 
 ---
 
