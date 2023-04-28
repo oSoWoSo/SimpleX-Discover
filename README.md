@@ -31,17 +31,21 @@ This index lists some of the most commonly known "public" groups known within th
 
 (Both brief summary and additional description can bs omitted)
 
-- Example (Private Group):
+- Example private group in Markdown (doesn't exist):
+```
+- **Example.com** (Example.com unofficial group): [#Example.com](https://simplex.chat/contact#/?v=1-1&smp=smp%2%4%7%6Nai8JANA8nnJIjnaua82nNJHana8naniajma%3D%40smp0.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%JA7W82Jjw78JSIS8wmwR1Q44WKwY8VScrwJshayamJSJAJAAHH8naua7NUa8ajI8baua7HN%BHHajajxid.onion)
+    - Discussion about anything on Example.com & related. No moderation.
+```
 
-- **Example Topic** (Example.com unofficial group): [#Example](https://simplex.chat/contact#/?v=1-1&smp=smp%2%4%7%6Nai8JANA8nnJIjnaua82nNJHana8naniajma%3D%40smp0.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%JA7W82Jjw78JSIS8wmwR1Q44WKwY8VScrwJshayamJSJAJAAHH8naua7NUa8ajI8baua7HN%BHHajaj
-xid.onion)
-    - Discuasion about Example.com and everything related.
+5. Ordering: Headings, order and sections are open to improvement.
 
+6. ???
 
+7. Content restrictions: None, besides grave inappropriate topics (my own rules)
 
-5. 
+8. Contributing: *TODO*
 
-########## TODO
+---
 
 *(This text section below can be skipped actually, some of it is rambling too much haha.)*
 
