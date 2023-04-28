@@ -17,7 +17,9 @@ This index lists some of the most commonly known "public" groups known within th
 
 4. Entry Syling (Markdown):
 
-`- **Name** (Summary): [#/@Name(SimpleX)](URL)`
+`- **Name** (optional summary): [#Name(SimpleX)](URL)`
+
+`- **Name** (optional summary): [@Name(SimpleX)](URL)`
 
 ---
 
