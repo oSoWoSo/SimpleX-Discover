@@ -65,7 +65,7 @@ Note: Links are working depending on who created then and are connected to the n
 
 - **Nostr**: [#Nostr????]() - Does a link exist???
 
-- **The Binding of Isaac** (Game): [#The-Binding-Of-Isaac](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FTkh5WW2URgDfU2ReMGW2z9_hLCfmPIpZ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6yg9CluFTx3OI4ushp4Js4H1ZYuRc1AxNvcVhwmxZxs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gGIkXvOeFOQuIVGTM7SgbQ%3D%3D%22%7D)
+- **The Binding of Isaac**: [#The-Binding-Of-Isaac](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FTkh5WW2URgDfU2ReMGW2z9_hLCfmPIpZ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6yg9CluFTx3OI4ushp4Js4H1ZYuRc1AxNvcVhwmxZxs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gGIkXvOeFOQuIVGTM7SgbQ%3D%3D%22%7D)
 
 ---
 
