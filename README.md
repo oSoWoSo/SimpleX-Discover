@@ -1,6 +1,8 @@
 # SimpleX User Groups Index
 #### List of Communities, Group Chats, Bots, and More.
 
+### Introduction
+
 This index lists various public groups within the SimpleX community. It is not meant to be a comprehensive index of all or most groups on the platform, and in the future, smaller, federated indexes made by communities and users, and public group/discovery servers will be introduced to solve this. Note that this index undermines the intrinsic anonymity of private group chats, as they are not meant to be indexable globally.
 
 ### Premable.. mumble..?
@@ -9,16 +11,17 @@ This index lists various public groups within the SimpleX community. It is not m
 ### Contribute
 If you want your group listed (or delisted), feel free to contact me on SimpleX or contribute to this repo directly. Please consider the implications of adding your group before doing so!
 
-### Contact to List/Delist your Group
-[**My contact address** for contacting me](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion)
+### Contact Me to List (or Delist) Your Group
 
-Note: Links are working depending on who created then and are connected to the nextwork for a successful join into a group! For most, this is not depenndent on me!
+-> [**My contact address**](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion)
 
 ---
 
 # Groups and Communities
 
-## Simplex related
+Note: Joining a group via links depends on the group's creator and network, not always through me!
+
+## Simplex-Related Groups
 
 - **Official SimpleX User Groups**: [SimpleX **Join a User Group** (GitHub)](https://github.com/simplex-chat/simplex-chat#join-a-user-group)
    - #SimpleX-Group-2, #SimpleX-Group-3, #SimpleX-Group-DE, #SimpleX-FR, #SimpleX-IT and #SimpleX-RU. (Yes, #Simplex-Group is not listed anymore..)
