@@ -17,11 +17,30 @@ This index lists some of the most commonly known "public" groups known within th
 
 4. Entry Syling (Markdown):
 
-`- **Name** (optional summary): [#Name(SimpleX)](URL)`
+- Private Group:
+```
+- **Name** (Summary): [#Group Name on SimpleX](URL)
+    - Additional Description or miscellaneous.
+```
 
-`- **Name** (optional summary): [@Name(SimpleX)](URL)`
+- User/Bot:
+```
+- **Name** (Summary): [@User Name on SimpleX](URL)
+    - Additional Description or miscellaneous.
+```
 
----
+(Both brief summary and additional description can bs omitted)
+
+- Example (Private Group): ######### TODO
+```
+- **Name** (Summary): [#Group Name on SimpleX](URL)
+    - Additional Description or miscellaneous.
+```
+
+
+5. 
+
+########## TODO
 
 *(This text section below can be skipped actually, some of it is rambling too much haha.)*
 
