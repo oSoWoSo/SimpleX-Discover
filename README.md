@@ -8,8 +8,15 @@ This index lists some of the most commonly known "public" groups known within th
 ### Index Guidelines
 ##### For Nomenclature, Style (Markdown), Naming, Description & text, Link and Order
 
-1. All Invite links published can be created by anyone. Keep in mind that more connection uptime of the invite makes users connect faster (ideally you'd need 24/7 uptime for the host of the invite link.
+1. **Invite links can be from anyone** (keep in mind that greater connection uptime of the invite link (respectively its host) makes users connect faster).
 
+2. **Invite links are named after the group's name on SimpleX, and preceeded by the symbols
+`#` (private group chat) or `@` (user chat/bot)** (which are used by CLI). Example: [#Example_Group-1](https://simplex.chat/)
+
+3. **Titles on this index must reflect topic**, otherwise it defaults to the actual group's name by me.
+
+4. Index entry syle: `
+- **Name** (Brief summary): \[**#Group Name (Simplex)**\](**Invite Link**)`
 
 ---
 
@@ -40,7 +47,7 @@ Note: Links are working depending on who created then and are connected to the n
 - **Official SimpleX User Groups**: [SimpleX **Join a User Group** (GitHub)](https://github.com/simplex-chat/simplex-chat#join-a-user-group)
    - #SimpleX-Group-2, #SimpleX-Group-3, #SimpleX-Group-DE, #SimpleX-FR, #SimpleX-IT and #SimpleX-RU. (Yes, #Simplex-Group is not listed anymore..)
 
-- **SimpleX Status Bot**: [@SimpleX-Status](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FShQuD-rPokbDvkyotKx5NwM8P3oUXHxA%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6fSx1k9zrOmF0BJpCaTarZvnZpMTAVQhd3RkDQ35KT0%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion)
+- **SimpleX Status Bot** (Notifies proxy/server connection status): [@SimpleX-Status](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FShQuD-rPokbDvkyotKx5NwM8P3oUXHxA%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6fSx1k9zrOmF0BJpCaTarZvnZpMTAVQhd3RkDQ35KT0%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion)
 
 - **Group Discovery** (still healthy group): [#SimpleX-Group-Discovery](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FsHrzZf5-VZxW2xQS3kG2JU3iB1S0Vszi%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAo3PH2owiHH5gSpSpqyLuMxBGF4Cv1QmKbDkR49fcGik%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22ynFLa945rngYvbBe451I8Q%3D%3D%22%7D)
 
