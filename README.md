@@ -31,10 +31,11 @@ This index lists some of the most commonly known "public" groups known within th
 
 (Both brief summary and additional description can bs omitted)
 
-- Example (Private Group): ######### TODO
+- Example (Private Group):
 ```
-- **Name** (Summary): [#Group Name on SimpleX](URL)
-    - Additional Description or miscellaneous.
+- **Example Topic** (Example.com unofficial group): [#Example](https://simplex.chat/contact#/?v=1-1&smp=smp%2%4%7%6Nai8JANA8nnJIjnaua82nNJHana8naniajma%3D%40smp0.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%JA7W82Jjw78JSIS8wmwR1Q44WKwY8VScrwJshayamJSJAJAAHH8naua7NUa8ajI8baua7HN%BHHajaj
+xid.onion)
+    - Discuasion about Example.com and everything related.
 ```
 
 
