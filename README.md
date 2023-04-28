@@ -1,26 +1,13 @@
-# SimpleX - User Groups: Index
-#### List of Communities, Group Chats, Bots and More.
+# SimpleX User Groups Index
+#### List of Communities, Group Chats, Bots, and More.
 
-This index lists some of the most commonly known "public" groups known within the SimpleX community (or at least those on my end). It is implicitly not meant to become or evolve a true index of every or most group chats on the platfom, instead, in the future, this will be replaced with smaller, federated indexes and then also public groups/discovery servers. For private groups, this index basically defeats the intrinsic anonymity for private group chats.
-
----
-
-**Index Guidelines** can be found in [Guidelines.md](./Guidelines.md)
-
----
-
-*(This text section below can be skipped actually, some of it is rambling too much haha.)*
+This index lists various public groups within the SimpleX community. It is not meant to be a comprehensive index of all or most groups on the platform, and in the future, smaller, federated indexes made by communities and users, and public group/discovery servers will be introduced to solve this. Note that this index undermines the intrinsic anonymity of private group chats, as they are not meant to be indexable globally.
 
 ### Premable.. mumble..?
-This is a highly experimental project of mine with no future plans, as it's already a terminally ill concept in it's deathbed.
+*This is an experimental project with no future plans., as it's already a terminally ill concept laying in its deathbed.*
 
-### Why an Index is Pointless
-##### Or Falsely Portrays How Actual Group Connection Works
-Any publically or privately accessible list of users is a honeypot for spam accounts, those eventually will come. SimpleX only uses minimal moderation tools in its groups, in fact, these act against the conceptual open, private and anonymous groups.
-
-This means that indexes, lists and "discovery" channels all void SimpleX utilizing private invite methods which can be limited to e.g. one person or less. This undermines a group's privacy and may even misjudge what SimpleX conveys with private groups, which are hidden by default from any discovery methods or random guesses.
-
----
+### Contribute
+If you want your group listed (or delisted), feel free to contact me on SimpleX or contribute to this repo directly. Please consider the implications of adding your group before doing so!
 
 ### Contact to List/Delist your Group
 [**My contact address** for contacting me](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAE1QXehtKV4BUJ5L-R1Q44WKwY8VScrwE2ZFnrXHZoFc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion)
@@ -100,7 +87,18 @@ Note: Links are working depending on who created then and are connected to the n
 
 ---
 
-## Contribute
-If you want your group listed (or delisted), feel free to contact me on SimpleX or contribute to this repo directly! You should already know what the implications are when adding rooms to this index, so please think carefully before anything else!
+
+*(This text section below can be skipped actually, some of it is rambling too much haha.)*
+
+### Why an Index is Pointless or Falsely Portrays How Group Discovery Works
+SimpleX only uses minimal moderation tools in its groups, and in fact, these go against the concept of fully anonymous groups.
+
+This means that lists and "discovery" channels all void the private invite methods of groups, which can be limited to specific people, thereby undermining a group's privacy and may misjudge what SimpleX conveys with private groups, which are hidden by default.
+
+### Style Guidelines
+
+**Index Guidelines** can be found in [Guidelines.md](./Guidelines.md)
+
+---
 
 Greetz <3
