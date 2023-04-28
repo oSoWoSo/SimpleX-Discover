@@ -15,7 +15,8 @@ This index lists some of the most commonly known "public" groups known within th
 
 3. **Titles on this index must reflect topic**, otherwise it defaults to the actual group's name by me.
 
-4. Index entry syle: `- **Name** (Brief summary): \[**#Group Name (Simplex)**\](**Invite Link**)`
+4. Entry Syling (Markdown):
+`- **Name** (Brief summary): \[**#Group Name (Simplex)**\](**Invite Link**)`
 
 ---
 
