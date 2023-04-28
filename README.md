@@ -1,12 +1,19 @@
 # SimpleX - User Groups: Index
 #### List of Communities, Group Chats, Bots and More.
 
-*(The section below can be skipped actually, some of it is rambling too much haha.)*
-
-
 This index lists some of the most commonly known "public" groups known within the SimpleX community (or at least those on my end). It is implicitly not meant to become or evolve a true index of every or most group chats on the platfom, instead, in the future, this will be replaced with smaller, federated indexes and then also public groups/discovery servers. For private groups, this index basically defeats the intrinsic anonymity for private group chats.
 
 ---
+
+### Index Guidelines
+##### For Nomenclature, Style (Markdown), Naming, Description & text, Link and Order
+
+1. All Invite links published can be created by anyone. Keep in mind that more connection uptime of the invite makes users connect faster (ideally you'd need 24/7 uptime for the host of the invite link.
+
+
+---
+
+*(This text section below can be skipped actually, some of it is rambling too much haha.)*
 
 ### Premable.. mumble..?
 This is a highly experimental project of mine with no future plans, as it's already a terminally ill concept in it's deathbed.
