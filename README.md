@@ -1,7 +1,7 @@
 # SimpleX 
 https://SimpleX.chat
 
-Do you or your group listed in?
+Do you want, or your group listed in?
 
 or
 
