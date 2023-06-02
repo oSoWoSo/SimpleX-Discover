@@ -1,6 +1,6 @@
-!1 Simplex-Related Groups!
+!3 Simple!!5 X!!1 groups list!
 
-!3 SimpleX Official!
+!3 Simple!!5 X!!1 Official!
 
 *SimpleX group 3 (English)*
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2Fp-j-D_PrY2UMDchFHEUtbSES0nmzCnvD%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA3gBfMjB_GDEmKQwjNdqGbnX91yfuZ7nRJgQijsx5Khc%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%2262MvNZ_Ec2mmlS8V0QNtLQ%3D%3D%22%7D
@@ -20,7 +20,7 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4
 *SimpleX IT*
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2F0weR-ZgDUl7ruOtI_8TZwEsnJP6UiImA%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAq4PSThO9Fvb5ydF48wB0yNbpzCbuQJCW3vZ9BGUfcxk%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22e-iceLA0SctC62eARgYDWg%3D%3D%22%7D
 
-!3 User created!
+!1 User created!
 
 *SimpleX Status Bot* (Notifies proxy/server status):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FShQuD-rPokbDvkyotKx5NwM8P3oUXHxA%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6fSx1k9zrOmF0BJpCaTarZvnZpMTAVQhd3RkDQ35KT0%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion
@@ -49,6 +49,7 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZ
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FiTgecSRu7Tn2nmKkqqer_K4UTCHk1Pkg%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAbE3kQHYp4g4ZifHJb9ZJgkdY70oxDWccWtmrxhRqvEM%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22x8_OIXbIixmJdJr6lg-g4w%3D%3D%22%7D
 
 *GrapheneOS* (unofficial):
+!2 Delete for everyone!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2F1Bt1puwIuGZv1chCbxqpgNwBq51Zrw48%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAhkLxxWACrCtwa2NHxgSJo3DC-bEj7FWw7kB3rViENVo%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%221xueCWub5FE-87FbDGZD4Q%3D%3D%22%7D
 
 *Bash/Sh*:
@@ -92,7 +93,9 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZ
 *Drugs* (Experimental group. "Sensitive topic" testing moderation - Aims to achieve non-harmful anecdotes, with minimal moderation needed.):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FRuPulBfXSepbYLLFedR60n4kvPynfVe1%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAdQowc4FVnNc33qNZl-p5cU9vBGZF0T-bSE5gkpQdrGM%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gWlQ_-kmZhTwt3l_RDJUNg%3D%3D%22%7D
 
-!4 Language-specific Groups!
+---
+
+!1 Language-specific Groups!
 
 *Plauderdecke* (German):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FfEZiZCku7vUPzOrYWVv7OwAuT0rVuGiK%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAHdeYale0PSLrReb86PlPEoqiFCvtpJIja_an20nxf1E%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22TSMQES54wzVCw90BISJWkw%3D%3D%22%7D
