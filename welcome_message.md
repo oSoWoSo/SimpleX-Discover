@@ -167,10 +167,7 @@ Message him directly if you are a content collector or qualify to admin:
   ––– 
   
   !1 Language specific Groups!  
-  
-  *Plauderdecke* (German):  
-  https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FfEZiZCku7vUPzOrYWVv7OwAuT0rVuGiK%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAHdeYale0PSLrReb86PlPEoqiFCvtpJIja_an20nxf1E%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22TSMQES54wzVCw90BISJWkw%3D%3D%22%7D  
-  
+
   *Redefreiheit* (German):  
   https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2F8MpVA_kKLv2ZVxwaFLaQ4copmko7RBt2%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAluTxfRTwl3LqRBADgVsf6jCol-4_Uh_RuofzgQE9lDM%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22S7VHEMlJJFVeGOeMez9lnQ%3D%3D%22%7D  
   
