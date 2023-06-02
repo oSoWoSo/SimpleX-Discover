@@ -2,10 +2,9 @@
 !2 Enabled feature!
 (posible not accurate since is did by hand)
 !2 !
-
-!1 share this list!
-If you want your group list/delist. write me here from same profile as group admin...
-
+If you want your group list/delist.
+ Write me here, from same profile as group admin:
+!1 share this list!!
 *Discover* (Simplex Public Adrress Book):
 !2 direct!
 !2 voice!
