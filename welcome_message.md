@@ -94,6 +94,8 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZ
 !4 Privacy & Social!
 
 *Privacy & Security*:
+!2 dissappearing 1 month!
+!2 delete!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FeB3_x6aWPRaet_4fsP02r6IKv5eWqVUZ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAycOPZL-OzabcVLxku7Vco3L5JTzDAIt2XMKrbEcpllA%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22TsKOOPffBF_ryxE1ULBV5g%3D%3D%22%7D
 
 *Memes* (v3.0):
