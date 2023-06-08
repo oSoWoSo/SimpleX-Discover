@@ -24,25 +24,25 @@
 
 - Private Group:
 
-```
+```markdown
 - **Name** (Summary): [#Group Name on SimpleX](URL)
-    - Additional Description or miscellaneous.
+  - Additional Description or miscellaneous.
 ```
 
 - User/Bot:
 
-```
+```markdown
 - **Name** (Summary): [@User Name on SimpleX](URL)
-    - Additional Description or miscellaneous.
+  - Additional Description or miscellaneous.
 ```
 
 (Both brief summary and additional description can bs omitted)
 
 - Example private group in Markdown (doesn't exist):
 
-```
+```markdown
 - **Example.com** (Example.com unofficial group): [#Example.com](https://simplex.chat/contact#/?v=1-1&smp=smp%2%4%7%6Nai8JANA8nnJIjnaua82nNJHana8naniajma%3D%40smp0.simplex.im%2FT4aN-mK2Y_i98yxrEjsTtJZ-zdZnPlXu%23%2F%3Fv%3D1-2%26dh%JA7W82Jjw78JSIS8wmwR1Q44WKwY8VScrwJshayamJSJAJAAHH8naua7NUa8ajI8baua7HN%BHHajajxid.onion)
-    - Discussion about anything on Example.com & related. No moderation.
+  - Discussion about anything on Example.com & related. No moderation.
 ```
 
 5. Ordering: Headings, order and sections are open to improvement.
