@@ -15,12 +15,24 @@ group link: [Discover - SimpleX Public Adrress Book](https://simplex.chat/contac
 
 direct and voice messages enabled!
 
+<!-- prettier-ignore-start -->
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [SimpleX formated welcome message (use for posting in SimpleX)](#simplex-formated-welcome-message-use-for-posting-in-simplex)
+- [SimpleX formated welcome message (pasted above, github reformated to their .md)](#simplex-formated-welcome-message-pasted-above-github-reformated-to-their-md)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+<!-- prettier-ignore-end -->
+
 # SimpleX formated welcome message (use for posting in SimpleX)
 https://github.com/oSoWoSo/SimpleX-Discover/raw/simplex/README.txt
 
 # SimpleX formated welcome message (pasted above, github reformated to their markdown)
 
-https://raw.githubusercontent.com/oSoWoSo/SimpleX-Discover/simplex/welcome_message
+https://raw.githubusercontent.com/oSoWoSo/SimpleX-Discover/simplex/welcome_message.txt
 
 # SimpleX formated welcome message (pasted above, github reformated to their .md)
 
