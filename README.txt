@@ -1,15 +1,12 @@
-# SimpleX
+# Discover SimpleX
 
 <img src="https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/images/simplex-chat-logo.svg" alt="SimpleX logo" width="100%">
 https://SimpleX.chat
 
-Do you want, or your group listed in?
+Do you or your group want to get listed?
 
-or
-
-# Switch before! joining in to incognito mode
-
-to not share true profile with everyone!
+**_Switch to incognito mode before joining to not share your true profile with
+everyone_**
 
 group link: [Discover - SimpleX Public Adrress Book](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FGilemkToPWbxabXZAroOuOEDyJk9Rcku%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAANIWG2KgG-qqPPC3rGl8um5z4T-qhtG00bAgQGzJITU%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22XT7YSvT4eR86cffD9ZC61w%3D%3D%22%7D0)
 
@@ -20,8 +17,12 @@ direct and voice messages enabled!
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [SimpleX formated welcome message (use for posting in SimpleX)](#simplex-formated-welcome-message-use-for-posting-in-simplex)
-- [SimpleX formated welcome message (pasted above, github reformated to their .md)](#simplex-formated-welcome-message-pasted-above-github-reformated-to-their-md)
+- [SimpleX formatted welcome message (use for posting in SimpleX)](#simplex-formatted-welcome-message-use-for-posting-in-simplex)
+- [Official SimpleX groups](#official-simplex-groups)
+- [User created](#user-created)
+- [Software & related](#software--related)
+- [Privacy & Social](#privacy--social)
+- [Language specific groups](#language-specific-groups)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -31,10 +32,9 @@ direct and voice messages enabled!
 https://github.com/oSoWoSo/SimpleX-Discover/raw/simplex/README.txt
 
 # SimpleX formated welcome message (pasted above, github reformated to their markdown)
+## SimpleX formatted welcome message (use for posting in SimpleX)
 
 https://raw.githubusercontent.com/oSoWoSo/SimpleX-Discover/simplex/welcome_message.txt
-
-# SimpleX formated welcome message (pasted above, github reformated to their .md)
 
 !1 Do you want or your group listed! in Discover? – !3 Simple!!5 X! Public Address Book
 !2 direct and voice messages enabled!
@@ -52,6 +52,8 @@ Or ask for updating welcome message accordingly in group itself...
 !1 Share it everywhere with anyone!!
 
 –––
+
+## Official SimpleX groups
 
 !3 Simple!!5 X! !1 groups list!
 !2 Enabled feature!
@@ -80,6 +82,8 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4
 _SimpleX IT_
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2F0weR-ZgDUl7ruOtI_8TZwEsnJP6UiImA%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAq4PSThO9Fvb5ydF48wB0yNbpzCbuQJCW3vZ9BGUfcxk%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22e-iceLA0SctC62eARgYDWg%3D%3D%22%7D
 
+## User created
+
 !1 User created!
 
 _SimpleX Status Bot_ (Notifies proxy/server status):
@@ -101,6 +105,8 @@ _SimpleX UI/UX_ (Simplex User Experience and Interface):
 !2 direct!
 !2 delete!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FwuWPTc2ATrNyjURCIekQgJDyppHNsMVz%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA_wdBAKcrCSUp0q7A5ny37kxzZeFpHHggNecEpshaVWs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%222cGPD4mD0BjOfEloabHgGA%3D%3D%22%7D
+
+## Software & related
 
 !4 Software & Related!
 
@@ -136,6 +142,8 @@ _Nostr_ (Talk about Nostr):
 
 _The Binding of Isaac_:
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FTkh5WW2URgDfU2ReMGW2z9_hLCfmPIpZ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6yg9CluFTx3OI4ushp4Js4H1ZYuRc1AxNvcVhwmxZxs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gGIkXvOeFOQuIVGTM7SgbQ%3D%3D%22%7D
+
+## Privacy & Social
 
 !4 Privacy & Social!
 
@@ -208,6 +216,8 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prb
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FS-kXhgVZfYYtKG_suHUZq0OD_GeSRq_y%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA8ZgL-OuYJK1nrT0QOSkYjh8vUX7tUfQsvNNTp8DkjGw%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22QUlkBClrW0ZRnJjg_Pk2jQ%3D%3D%22%7D
 
 –––
+
+## Language specific groups
 
 !1 Language specific Groups!
 
