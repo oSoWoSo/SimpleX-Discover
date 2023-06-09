@@ -14,9 +14,9 @@ group link: [Discover - SimpleX Public Adrress Book](https://simplex.chat/contac
 direct and voice messages enabled!
 
 # SimpleX formated welcome message (use for posting in SimpleX)
-https://raw.githubusercontent.com/oSoWoSo/SimpleX-Discover/simplex/welcome_message
+https://github.com/oSoWoSo/SimpleX-Discover/raw/simplex/README.txt
 
-# SimpleX formated welcome message (pasted above, github reformated to their .md)
+# SimpleX formated welcome message (pasted above, github reformated to their markdown)
 !1 Do you want or your group listed! in Discover? – !3 Simple!!5 X! Public Address Book
 !2 direct and voice messages enabled!
 Join:
