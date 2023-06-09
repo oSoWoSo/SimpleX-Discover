@@ -1,4 +1,4 @@
-### Index Guidelines
+# Index Guidelines
 
 <!-- prettier-ignore-start -->
 
@@ -11,7 +11,7 @@
 
 <!-- prettier-ignore-end -->
 
-##### For Nomenclature, Style (Markdown), Naming, Description & text, Link and Order
+## For Nomenclature, Style (Markdown), Naming, Description & text, Link and Order
 
 1. **Invite links can be from anyone** (keep in mind that greater connection uptime of the invite link (respectively its host) makes users connect faster).
 
