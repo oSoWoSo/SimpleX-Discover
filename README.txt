@@ -41,9 +41,9 @@ Or ask for updating welcome message accordingly in group itself...
 
 !3 Simple!!5 X!!1 Official!
 
-*SimpleX group 3 (English)*
+*SimpleX group 4 (English)*
 !2 voice!
-https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2Fp-j-D_PrY2UMDchFHEUtbSES0nmzCnvD%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA3gBfMjB_GDEmKQwjNdqGbnX91yfuZ7nRJgQijsx5Khc%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%2262MvNZ_Ec2mmlS8V0QNtLQ%3D%3D%22%7D
+https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2Fw2GlucRXtRVgYnbt_9ZP-kmt76DekxxS%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA0tJhTyMGUxznwmjb7aT24P1I1Wry_iURTuhOFlMb1Eo%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22WoPxjFqGEDlVazECOSi2dg%3D%3D%22%7D
 
 *SimpleX DE*
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FkIEl7OQzcp-J6aDmjdlQbRJwqkcZE7XR%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAR16PCu02MobRmKAsjzhDWMZcWP9hS8l5AUZi-Gs8z18%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22puYPMCQt11yPUvgmI5jCiw%3D%3D%22%7D
