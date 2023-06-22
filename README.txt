@@ -12,22 +12,6 @@ group link: [Discover - SimpleX Public Adrress Book](https://simplex.chat/contac
 
 direct and voice messages enabled!
 
-<!-- prettier-ignore-start -->
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [SimpleX formatted welcome message (use for posting in SimpleX)](#simplex-formatted-welcome-message-use-for-posting-in-simplex)
-- [Official SimpleX groups](#official-simplex-groups)
-- [User created](#user-created)
-- [Software & related](#software--related)
-- [Privacy & Social](#privacy--social)
-- [Language specific groups](#language-specific-groups)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-<!-- prettier-ignore-end -->
-
 # SimpleX formated welcome message (use for posting in SimpleX)
 https://github.com/oSoWoSo/SimpleX-Discover/raw/simplex/README.txt
 
