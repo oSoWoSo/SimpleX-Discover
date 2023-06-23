@@ -1,2 +1,5 @@
 # See https://www.git-scm.com/docs/gitattributes#_effects for more information
-* text=auto merge=union linguist-detectable
+* text=auto eol=lf merge=union linguist-detectable
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+README.txt text eol=lf merge=union linguist-detectable linguist-language=markdown

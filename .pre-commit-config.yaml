@@ -1,0 +1,29 @@
+# See https://pre-commit.com for more information
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: check-added-large-files
+      - id: check-case-conflict
+      - id: check-yaml
+      - id: check-executables-have-shebangs
+      - id: check-shebang-scripts-are-executable
+      - id: destroyed-symlinks
+      - id: detect-private-key
+      - id: end-of-file-fixer
+      - id: fix-byte-order-marker
+      - id: trailing-whitespace
+        exclude_types: [markdown]
+
+  - repo: https://github.com/pre-commit/mirrors-prettier
+    rev: "v3.0.0-alpha.9-for-vscode"
+    hooks:
+      - id: prettier
+
+  - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
+    rev: "2.7.2"
+    hooks:
+      - id: editorconfig-checker
+        alias: ec
+        args: [-disable-max-line-length, -disable-indent-size]
