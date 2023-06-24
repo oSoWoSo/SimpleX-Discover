@@ -99,13 +99,12 @@ _Open Source_:
 !2 voice!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FiYCPu4p9eEAioivL1Rb8670g0pE8Z3j2%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAmzlao6lhMBW1nb-IcwFln_05rzW88dgJv2Es7_sm-wI%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22AjvQGK8S2x5Ef5EZ8aDYOA%3D%3D%22%7D
 
-_AI-Generated Art_: https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FiTgecSRu7Tn2nmKkqqer_K4UTCHk1Pkg%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAbE3kQHYp4g4ZifHJb9ZJgkdY70oxDWccWtmrxhRqvEM%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22x8_OIXbIixmJdJr6lg-g4w%3D%3D%22%7D
+_AI-Generated Art_:
+https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FiTgecSRu7Tn2nmKkqqer_K4UTCHk1Pkg%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAbE3kQHYp4g4ZifHJb9ZJgkdY70oxDWccWtmrxhRqvEM%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22x8_OIXbIixmJdJr6lg-g4w%3D%3D%22%7D
 
-*GrapheneOS* (unofficial):
-!2 delete!
-https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FRSgT1z-i5_Isco9ZrljRMwMujeH0ilyX%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAsgnKISewxnRIsiHk2XT1aU4WvznZD9sOXElfWP8lBEA%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22jykw4NDCia2yX2n219I2Tg%3D%3D%22%7D
 _GrapheneOS_ (unofficial):
-!2 delete! https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2F1Bt1puwIuGZv1chCbxqpgNwBq51Zrw48%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAhkLxxWACrCtwa2NHxgSJo3DC-bEj7FWw7kB3rViENVo%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%221xueCWub5FE-87FbDGZD4Q%3D%3D%22%7D
+!2 delete!
+https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2F1Bt1puwIuGZv1chCbxqpgNwBq51Zrw48%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAhkLxxWACrCtwa2NHxgSJo3DC-bEj7FWw7kB3rViENVo%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%221xueCWub5FE-87FbDGZD4Q%3D%3D%22%7D
 
 _Bash/Sh_:
 !2 direct!
