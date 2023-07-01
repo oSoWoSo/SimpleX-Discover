@@ -2,31 +2,21 @@
 <img src="https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/images/simplex-chat-logo.svg" alt="SimpleX logo" width="100%">
 https://SimpleX.chat
 
-Do you or your group want to get listed?
-
 **_Switch to incognito mode before joining to not share your true profile with everyone_**
-
-group link:
-Discover - SimpleX Public Groups Adrress Book
-https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FGilemkToPWbxabXZAroOuOEDyJk9Rcku%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAANIWG2KgG-qqPPC3rGl8um5z4T-qhtG00bAgQGzJITU%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22XT7YSvT4eR86cffD9ZC61w%3D%3D%22%7D0
-
-direct and voice messages enabled!
 
 # SimpleX formated welcome message (use for posting in SimpleX)
 https://github.com/oSoWoSo/SimpleX-Discover/raw/simplex/README.txt
 
-!1 Do you want or your group listed! in Discover? – !3 Simple!!5 X! Public Groups Address Book
-!2 direct and voice messages enabled!
-Join:
-https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FGilemkToPWbxabXZAroOuOEDyJk9Rcku%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAANIWG2KgG-qqPPC3rGl8um5z4T-qhtG00bAgQGzJITU%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22XT7YSvT4eR86cffD9ZC61w%3D%3D%22%7D
-or join same group
-!1 In incongito mode as observer, to no share true profile with everyone!!
-https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FGilemkToPWbxabXZAroOuOEDyJk9Rcku%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAANIWG2KgG-qqPPC3rGl8um5z4T-qhtG00bAgQGzJITU%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22XT7YSvT4eR86cffD9ZC61w%3D%3D%22%7D
+!1 Do you want or your group listed! in SimpleX-Discover? – !3 Simple!!5 X! Public Groups Address Book
 
 create PRs to welcome message on github https://github.com/oSoWoSo/SimpleX-Discover
 (prefered for now)
 With group(s), their preferences and links.
 Or ask for updating welcome message accordingly in group itself...
+
+*Discover* (SimpleX Public Groups Adrress Book):
+!2 direct and voice messages enabled!
+https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FqcadcelIUhqMXZifBsap3VABZhhcaeJt%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAGN8BAewPDNtktZQZPwL-pI6aMTAd4p6SPOyxazmVs0k%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%221nuzNh3BDHwVGnFQcLRPjQ%3D%3D%22%7D
 
 !1 Share it everywhere with anyone!!
 
