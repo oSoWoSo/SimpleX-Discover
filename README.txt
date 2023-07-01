@@ -113,8 +113,8 @@ https://simplex.chat/contact/#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UG
 *DistroHopper* (in beta, dh.osowoso.xyz - Quickly download, create and run VM of any operating system):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FzmtsZwfTjwyynibt0bF6bb_xLWS9ce5A%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAkMtz66wGfWb6VDn-_t_mVm3RFiFfOC3Hxye8Hm5tmVo%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22o8KR0TOM0f2j33nO9goMRQ%3D%3D%22%7D
 
-*Nostr* (Talk about Nostr):
-(missing) Does a link exist???
+*Priceless Crypto* (Talk about cryptocurrency but without discussing or speculating on price):
+https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FCCi84pT4Pv9yqu9TzpuctkPiJEa--tgK%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAsN059LyfEv25GJllxKLLymRNbuHGrWqem6k0aEa8zDM%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22A-WWh1GtISdGMoMVShmDnQ%3D%3D%22%7D
 
 *The Binding of Isaac*:
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FTkh5WW2URgDfU2ReMGW2z9_hLCfmPIpZ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6yg9CluFTx3OI4ushp4Js4H1ZYuRc1AxNvcVhwmxZxs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gGIkXvOeFOQuIVGTM7SgbQ%3D%3D%22%7D
