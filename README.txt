@@ -4,20 +4,16 @@ https://SimpleX.chat
 
 Do you or your group want to get listed?
 
-**_Switch to incognito mode before joining to not share your true profile with
-everyone_**
+**_Switch to incognito mode before joining to not share your true profile with everyone_**
 
-group link: [Discover - SimpleX Public Groups Adrress Book](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FGilemkToPWbxabXZAroOuOEDyJk9Rcku%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAANIWG2KgG-qqPPC3rGl8um5z4T-qhtG00bAgQGzJITU%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22XT7YSvT4eR86cffD9ZC61w%3D%3D%22%7D0)
+group link:
+Discover - SimpleX Public Groups Adrress Book
+https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FGilemkToPWbxabXZAroOuOEDyJk9Rcku%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAANIWG2KgG-qqPPC3rGl8um5z4T-qhtG00bAgQGzJITU%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22XT7YSvT4eR86cffD9ZC61w%3D%3D%22%7D0
 
 direct and voice messages enabled!
 
 # SimpleX formated welcome message (use for posting in SimpleX)
 https://github.com/oSoWoSo/SimpleX-Discover/raw/simplex/README.txt
-
-# SimpleX formated welcome message (pasted above, github reformated to their markdown)
-## SimpleX formatted welcome message (use for posting in SimpleX)
-
-https://raw.githubusercontent.com/oSoWoSo/SimpleX-Discover/simplex/welcome_message.txt
 
 !1 Do you want or your group listed! in Discover? – !3 Simple!!5 X! Public Groups Address Book
 !2 direct and voice messages enabled!
