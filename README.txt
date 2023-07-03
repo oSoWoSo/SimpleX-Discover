@@ -2,37 +2,27 @@
 <img src="https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/images/simplex-chat-logo.svg" alt="SimpleX logo" width="100%">
 https://SimpleX.chat
 
-Do you want, or your group listed in?
-
-or
-
-# Switch before! joining in to incognito mode
-to not share true profile with everyone!
-
-group link: [Discover - SimpleX Public Groups Adrress Book](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FGilemkToPWbxabXZAroOuOEDyJk9Rcku%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAANIWG2KgG-qqPPC3rGl8um5z4T-qhtG00bAgQGzJITU%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22XT7YSvT4eR86cffD9ZC61w%3D%3D%22%7D0)
-
-direct and voice messages enabled!
+**_Switch to incognito mode before joining to not share your true profile with everyone_**
 
 # SimpleX formated welcome message (use for posting in SimpleX)
 https://github.com/oSoWoSo/SimpleX-Discover/raw/simplex/README.txt
 
-# SimpleX formated welcome message (pasted above, github reformated to their markdown)
-!1 Do you want or your group listed! in Discover? – !3 Simple!!5 X! Public Groups Address Book
-!2 direct and voice messages enabled!
-Join:
-https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FGilemkToPWbxabXZAroOuOEDyJk9Rcku%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAANIWG2KgG-qqPPC3rGl8um5z4T-qhtG00bAgQGzJITU%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22XT7YSvT4eR86cffD9ZC61w%3D%3D%22%7D
-or join same group
-!1 In incongito mode as observer, to no share true profile with everyone!!
-https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FGilemkToPWbxabXZAroOuOEDyJk9Rcku%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAANIWG2KgG-qqPPC3rGl8um5z4T-qhtG00bAgQGzJITU%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22XT7YSvT4eR86cffD9ZC61w%3D%3D%22%7D
+!1 Do you want or your group listed! in SimpleX-Discover? – !3 Simple!!5 X! Public Groups Address Book
 
 create PRs to welcome message on github https://github.com/oSoWoSo/SimpleX-Discover
 (prefered for now)
 With group(s), their preferences and links.
 Or ask for updating welcome message accordingly in group itself...
 
+*Discover* (SimpleX Public Groups Adrress Book):
+!2 direct and voice messages enabled!
+https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FqcadcelIUhqMXZifBsap3VABZhhcaeJt%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAGN8BAewPDNtktZQZPwL-pI6aMTAd4p6SPOyxazmVs0k%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%221nuzNh3BDHwVGnFQcLRPjQ%3D%3D%22%7D
+
 !1 Share it everywhere with anyone!!
 
 –––
+
+## Official SimpleX groups
 
 !3 Simple!!5 X! !1 groups list!
 !2 Enabled feature!
@@ -64,14 +54,10 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28
 (This is a group for developers who build on SimpleX platform)
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2F6eHqy7uAbZPOcA6qBtrQgQquVlt4Ll91%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqV_pg3FF00L98aCXp4D3bOs4Sxv_UmSd-gb0juVoQVs%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22XonlixcHBIb2ijCehbZoiw%3D%3D%22%7D
 
-!1 User created!
-
 *SimpleX Status Bot* (Notifies proxy/server status):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FShQuD-rPokbDvkyotKx5NwM8P3oUXHxA%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6fSx1k9zrOmF0BJpCaTarZvnZpMTAVQhd3RkDQ35KT0%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion
 
-*Group Discovery* (Original group index - Hopefully will include updates on this index as well):
-!2 delete!
-https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FsHrzZf5-VZxW2xQS3kG2JU3iB1S0Vszi%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAo3PH2owiHH5gSpSpqyLuMxBGF4Cv1QmKbDkR49fcGik%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22ynFLa945rngYvbBe451I8Q%3D%3D%22%7D
+!1 User created!
 
 *Anon Network* (Discover people, groups, share interests):
 !2 direct!
@@ -85,6 +71,8 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZ
 !2 direct!
 !2 delete!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FwuWPTc2ATrNyjURCIekQgJDyppHNsMVz%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA_wdBAKcrCSUp0q7A5ny37kxzZeFpHHggNecEpshaVWs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%222cGPD4mD0BjOfEloabHgGA%3D%3D%22%7D
+
+## Software & related
 
 !4 Software & Related!
 
@@ -118,6 +106,8 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3a
 
 *The Binding of Isaac*:
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FTkh5WW2URgDfU2ReMGW2z9_hLCfmPIpZ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6yg9CluFTx3OI4ushp4Js4H1ZYuRc1AxNvcVhwmxZxs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gGIkXvOeFOQuIVGTM7SgbQ%3D%3D%22%7D
+
+## Privacy & Social
 
 !4 Privacy & Social!
 
@@ -190,6 +180,8 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prb
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FS-kXhgVZfYYtKG_suHUZq0OD_GeSRq_y%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA8ZgL-OuYJK1nrT0QOSkYjh8vUX7tUfQsvNNTp8DkjGw%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22QUlkBClrW0ZRnJjg_Pk2jQ%3D%3D%22%7D
 
 –––
+
+## Language specific groups
 
 !1 Language specific Groups!
 

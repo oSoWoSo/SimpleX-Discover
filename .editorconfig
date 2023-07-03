@@ -1,0 +1,17 @@
+# See https://editorconfig.org for more information
+root = true
+
+[*]
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
+charset = utf-8
+indent_style = space
+indent_size = 2
+max_line_length = 80
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.txt]
+max_line_length = off
