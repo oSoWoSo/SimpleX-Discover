@@ -72,6 +72,9 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZ
 !2 delete!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FwuWPTc2ATrNyjURCIekQgJDyppHNsMVz%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA_wdBAKcrCSUp0q7A5ny37kxzZeFpHHggNecEpshaVWs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%222cGPD4mD0BjOfEloabHgGA%3D%3D%22%7D
 
+*SimpleX FI*
+https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FqcwTD1tIcCldUNexd19_EEBxxX0S96oF%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAR_pqE6SYlng1kRUIoW5itPvgIiUQoN_gki0abkvDTnA%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22DOM9gToR25UganI7gd4hiA%3D%3D%22%7D
+
 ## Software & related
 
 !4 Software & Related!
