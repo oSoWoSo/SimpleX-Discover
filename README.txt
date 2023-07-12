@@ -107,6 +107,9 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3a
 *The Binding of Isaac*:
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FTkh5WW2URgDfU2ReMGW2z9_hLCfmPIpZ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6yg9CluFTx3OI4ushp4Js4H1ZYuRc1AxNvcVhwmxZxs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gGIkXvOeFOQuIVGTM7SgbQ%3D%3D%22%7D
 
+*Gamers!*:
+https://simplex.chat/contact#/?v=1-2&amp;smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2FFKUa02a9kXttS6JpdR1bIvPdhNTGOuuo%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAI2hqSwvP3rBboTE5om1BQIEmVubctN5TFizVW-dl6GI%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion&amp;data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22-FrK4ssdzJvUfJ5CtwWIHA%3D%3D%22%7D
+
 ## Privacy & Social
 
 !4 Privacy & Social!
