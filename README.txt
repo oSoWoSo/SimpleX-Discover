@@ -14,9 +14,9 @@ create PRs to welcome message on github https://github.com/oSoWoSo/SimpleX-Disco
 With group(s), their preferences and links.
 Or ask for updating welcome message accordingly in group itself...
 
-*Discover* (SimpleX Public Groups Adrress Book):
-!2 direct and voice messages enabled!
-https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FqcadcelIUhqMXZifBsap3VABZhhcaeJt%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAGN8BAewPDNtktZQZPwL-pI6aMTAd4p6SPOyxazmVs0k%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%221nuzNh3BDHwVGnFQcLRPjQ%3D%3D%22%7D
+*SimpleX-Discover* (SimpleX Public Groups Adrress Book):
+!2 voice messages enabled!
+https://simplex.chat/contact#/?v=1-3&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FEJpY4i9OOZVRYKNVJfmAQtW-ScC0rhJx%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAYvR3ekwpQGXZbXjTVMOV2WOewGt-cEQpaM4lMsfUVj4%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22rJ0nUsbAztzpjWUmz4Wm5w%3D%3D%22%7D
 
 !1 Share it everywhere with anyone!!
 
