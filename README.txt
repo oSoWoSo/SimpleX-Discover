@@ -126,7 +126,7 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZ
 *Freedom of Speech*:
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FROSeCcqgm0PmyZcFdJXjA2k_NrhcH1Cc%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqFwbiS0F0q4jfWeYFGkGdhvpcPHPepmNk_KmAsw1Hhk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Q3MWoSI8ScfSQymu5tEzKg%3D%3D%22%7D
 
-*Movie discussions! Reviews!*:(NSFW content NOT allowed.)
+*Movies!* (Movie discussions! Reviews! NSFW content NOT allowed.):
 https://simplex.chat/contact#/?v=1-3&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FqtVLxUeuh6DzHr8GEkgv7w_PBD5JQjZS%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAGzMAW6PB8fmitzfTT5qlMK-T1BlFS8nwwxlbJDGHdBc%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22IzZmEliTCzdFFdAafE2NCg%3D%3D%22%7D
 
 *Trans Lounge* (Transgender):
