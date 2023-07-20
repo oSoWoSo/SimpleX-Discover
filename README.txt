@@ -1,6 +1,5 @@
-# SimpleX
+# SimpleX      https://SimpleX.chat
 <img src="https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/images/simplex-chat-logo.svg" alt="SimpleX logo" width="100%">
-https://SimpleX.chat
 
 **_Switch to incognito mode before joining to not share your true profile with everyone_**
 
