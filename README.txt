@@ -58,6 +58,9 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28
 
 !1 User created!
 
+For really sick deliverability / delay testers, was created a pure testing room. Bot it sending test messages to the room every 5 minutes with a timestamp and random id. This room can be also freely be used for join / leave, and similar tests, because it's already being flooded by the bot.
+https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FN4EXQhmcw3evqAAeKPKisra9cYDPr2mc%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAS1Dj3FsbpLT3q-gzED5lwLu5OrJTN6Ux_TEcZEEuFlQ%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%220puRUs6fTGt2SZFOHWDJPg%3D%3D%22%7D
+
 *Anon Network* (Discover people, groups, share interests):
 !2 direct!
 !2 delete!
