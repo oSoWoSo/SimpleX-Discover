@@ -103,7 +103,7 @@ https://simplex.chat/contact/#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UG
 *DistroHopper* (in beta, dh.osowoso.xyz - Quickly download, create and run VM of any operating system):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FzmtsZwfTjwyynibt0bF6bb_xLWS9ce5A%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAkMtz66wGfWb6VDn-_t_mVm3RFiFfOC3Hxye8Hm5tmVo%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22o8KR0TOM0f2j33nO9goMRQ%3D%3D%22%7D
 
-*Nostr*
+*Nostr*:
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FOs49bI1lH4wBcwcuC7tCxXYjorknrnj9eGj9V1Jh2xk%3D%40simplex.mnethome.de%2FIw33HKmaSBudjh86MXv8AlDBwjIZcVAr%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAnRQEpt5l-ry1qFxiMZFP6KOdMxfoXgD2ZC1LOq5yUWk%253D&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22d6rjBZHFuXcB1KDKrNFWtg%3D%3D%22%7D
 
 *Priceless Crypto* (Talk about cryptocurrency but without discussing or speculating on price):
