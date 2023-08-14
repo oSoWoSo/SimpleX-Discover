@@ -1,3 +1,11 @@
+Obsolete by SimpleX-Directory service
+
+------
+
+https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FeXSPwqTkKyDO3px4fLf1wx3MvPdjdLW3%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAaiv6MkMH44L2TcYrt_CsX3ZvM11WgbMEUn0hkIKTOho%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion
+
+------
+
 # SimpleX      https://SimpleX.chat
 <img src="https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/images/simplex-chat-logo.svg" alt="SimpleX logo" width="100%">
 
