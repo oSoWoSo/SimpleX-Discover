@@ -111,3 +111,11 @@ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZG
 UFOs (Discussion, leaks about UFOs)
 
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2F2r8myA3VBZf2JhucD5QE1N93QumyEXX5%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA3LxW3LaKRTq7cEMd3Xqd3-kd7kKM8zZZWHg1fkLsgRw%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22HsmvAJb0W-kCrec-HaVcpA%3D%3D%22%7D
+
+Starfield (Starfield game descussion)
+
+https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2F3iBYHJqJO997B4VCGvhq3EHb9ou3UgGH%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAZQqSDpUHfGukP7jsEG77U1dkuX7RorglKwNGo_QBc1Q%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22BhgYh03mK5FTbCxZFMEpJQ%3D%3D%22%7D
+
+HaskellX
+
+ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FVdA_UyRn_0fGKyh9H9n2e87_tgFKJxN4%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqzgUk6aPb9eGYqzo3YDMp7HD0YyGvnd1tYe4RFQpiCo%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%228T0GJER7GiVNpj5wr_3kgg%3D%3D%22%7D
