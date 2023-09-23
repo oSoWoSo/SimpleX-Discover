@@ -101,13 +101,6 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZ
 !2 direct!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2Fpt5TJXl3RwqSMbwkDCxwWMGnZLkGtXGn%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEASbtQtI-YVYERsDQcYpaZIUih4CpNyfv7hNFZQQsqqxA%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22dbtZiqnLoLggX5nFpeE-Gg%3D%3D%22%7D
 
-*Coding Simpletons*:
-!2 voice!
-https://simplex.chat/contact/#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FR8rllvSswg5Eh91jpwMLiN2JuntZlDMT%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqpe1QzxZYefxyPc15XCov57Fzte9-VFXvG1BkjvtHyk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B"type"%3A"group"%2C"groupLinkId"%3A"q4NyqbDnyCUyQ347Hr2aJg%3D%3D"%7D
-
-*CodingSimpletons (Mirror)*:
-https://simplex.chat/contact/#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FR8rllvSswg5Eh91jpwMLiN2JuntZlDMT%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqpe1QzxZYefxyPc15XCov57Fzte9-VFXvG1BkjvtHyk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22q4NyqbDnyCUyQ347Hr2aJg%3D%3D%22%7D
-
 *DistroHopper* (in beta, dh.osowoso.xyz - Quickly download, create and run VM of any operating system):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FzmtsZwfTjwyynibt0bF6bb_xLWS9ce5A%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAkMtz66wGfWb6VDn-_t_mVm3RFiFfOC3Hxye8Hm5tmVo%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22o8KR0TOM0f2j33nO9goMRQ%3D%3D%22%7D
 
@@ -120,8 +113,6 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3a
 *The Binding of Isaac*:
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FTkh5WW2URgDfU2ReMGW2z9_hLCfmPIpZ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6yg9CluFTx3OI4ushp4Js4H1ZYuRc1AxNvcVhwmxZxs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gGIkXvOeFOQuIVGTM7SgbQ%3D%3D%22%7D
 
-*Gamers!*:
-https://simplex.chat/contact#/?v=1-2&amp;smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2FFKUa02a9kXttS6JpdR1bIvPdhNTGOuuo%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAI2hqSwvP3rBboTE5om1BQIEmVubctN5TFizVW-dl6GI%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion&amp;data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22-FrK4ssdzJvUfJ5CtwWIHA%3D%3D%22%7D
 
 ## Privacy & Social
 
@@ -135,9 +126,6 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZ
 
 *Freedom of Speech*:
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FROSeCcqgm0PmyZcFdJXjA2k_NrhcH1Cc%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqFwbiS0F0q4jfWeYFGkGdhvpcPHPepmNk_KmAsw1Hhk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Q3MWoSI8ScfSQymu5tEzKg%3D%3D%22%7D
-
-*Movies!* (Movie discussions! Reviews! NSFW content NOT allowed.):
-https://simplex.chat/contact#/?v=1-3&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FqtVLxUeuh6DzHr8GEkgv7w_PBD5JQjZS%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAGzMAW6PB8fmitzfTT5qlMK-T1BlFS8nwwxlbJDGHdBc%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22IzZmEliTCzdFFdAafE2NCg%3D%3D%22%7D
 
 *Trans Lounge* (Transgender):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FMAdvewPQIBwAZlxkE61n61ZWxxX9OfWv%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAtHNgqSkNlGBbUtRTwG-JiorajB8sT7yB_iX0fl_Nrxg%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%222Z3R8ZVh3iEGyIpH8toMTw%3D%3D%22%7D
