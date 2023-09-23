@@ -46,8 +46,6 @@ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZG
 
 Movies! (Movie discussions)
 
-https://simplex.chat/contact#/?v=1-3&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FqtVLxUeuh6DzHr8GEkgv7w_PBD5JQjZS%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAGzMAW6PB8fmitzfTT5qlMK-T1BlFS8nwwxlbJDGHdBc%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22IzZmEliTCzdFFdAafE2NCg%3D%3D%22%7D
-
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FZ4W_ItUYotl1HdJicMyJb2tPpgh99772%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAfr6O08rvaivACMweR1AhOJFoRO1Z7PLMwJh1OA0LPAg%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22-OSY11E2fA25-LZg_v2sjg%3D%3D%22%7D
 
 TheCruisers
@@ -59,8 +57,6 @@ PSA-Switzerland (Privacy Security Anonymity - Switzerland)
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FFHiv5_94tP8wxeva32KO7c0sCPa_ojcx%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA3IWe4TzZs7Y306h07xE1B-_T6pv70OBqWKpvdrP3vQ4%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Gx96MuO6PFtVeL9zWJ0zFA%3D%3D%22%7D
 
 Gamers! (For gamers by gamers)
-
-https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2FFKUa02a9kXttS6JpdR1bIvPdhNTGOuuo%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAI2hqSwvP3rBboTE5om1BQIEmVubctN5TFizVW-dl6GI%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22-FrK4ssdzJvUfJ5CtwWIHA%3D%3D%22%7D
 
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FzAGrg2WF2oGhuhQ27_EoPx8-0W-dVd1K%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAfH31rEneavTiWTnCiEPM0NOAQtzQoQLjDUb_HtUlgV4%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22waYtd41xnp_HWZ8bqMQxxw%3D%3D%22%7D
 
