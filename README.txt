@@ -22,7 +22,7 @@ Or ask for updating welcome message accordingly in group itself...
 
 *SimpleX-Discover* (SimpleX Public Groups Adrress Book):
 !2 voice messages enabled!
-https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2F2NTYQudoRPRuNCyF_aYxqwoGed0htaCh%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAeSM3dHUE_768ePBjj5PlpNhLBIExv5OPKxG2aowmjSc%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22djharU0tgiKD33zdilYgDA%3D%3D%22%7D
+https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FIKHEflnRA5Fdn66B7XI-vFWI4muJf78I%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAjXQ7SqoAesUxhos3DhXZWJOSSB9M9ny9DN_bLhkKRHg%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22-8vBWeY64BXkn3GACxs3Yw%3D%3D%22%7D
 
 !1 Share it everywhere with anyone!!
 
@@ -264,7 +264,7 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prb
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2F8MpVA_kKLv2ZVxwaFLaQ4copmko7RBt2%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAluTxfRTwl3LqRBADgVsf6jCol-4_Uh_RuofzgQE9lDM%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22S7VHEMlJJFVeGOeMez9lnQ%3D%3D%22%7D
 
 *Czech group* (Momentalne jen o prekladu SimpleX aplikaci a webu):
-https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FxX3KBxkXXWqdunlv12eXDmsu-VZiDANx%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAOOmMtQ-iyNQC2wbR6fclSB9AA8EvXimAhJuz9SjVNEc%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22qvi7Z5mqhe7SMhbb08ew3Q%3D%3D%22%7D
+https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FA89llRD-mgK1sNw9Oaahn-vvPBdCBmIE%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAN7xFP6wiUMR9QTQwn3LkNjrjbfp4bpfYHQ4JzJ4mUUs%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22dhtdS5QrYdqMpQZM0fxVqA%3D%3D%22%7D
 
 *SimpleX FI* (*Finnish* language discussion on SimpleX, directly related subjects and topical discussion on secure messaging. / Suomenkielistä asiakeskustelua SimpleX-sovelluksesta, siihen suoraan liittyvistä asioista, sekä turvallisesta viestinnästä.):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FqcwTD1tIcCldUNexd19_EEBxxX0S96oF%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAR_pqE6SYlng1kRUIoW5itPvgIiUQoN_gki0abkvDTnA%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22DOM9gToR25UganI7gd4hiA%3D%3D%22%7D
