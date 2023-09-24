@@ -105,6 +105,9 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prb
 *Bash/Sh* (Awesome 🐚 shell scripting):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FjKUlbq1cTdSGqeJRUFI8cm6sKesTGYGv%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA2Vau7NFlbDccv1Y7HomReLVbN5vRPNaKBlXsgWNXIiw%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22GP9-8ZcIqLRUgJGfog3IHg%3D%3D%22%7D
 
+*Hack Liberty* (HackLiberty.org Community):
+https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FmoQ7oX9zvAX98kvW9e7ap4dLn0UymDhH%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAriOD6vVb9eraQFgnB9eT3hIyzFJOoUQ7tFdPUpvOVVw%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22knogxOxwA6nV1aCiEdgzhg%3D%3D%22%7D
+
 *DistroHopper* (in beta, dh.osowoso.xyz - Quickly download, create and run VM of any operating system):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FzmtsZwfTjwyynibt0bF6bb_xLWS9ce5A%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAkMtz66wGfWb6VDn-_t_mVm3RFiFfOC3Hxye8Hm5tmVo%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22o8KR0TOM0f2j33nO9goMRQ%3D%3D%22%7D
 
