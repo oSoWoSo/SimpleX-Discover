@@ -190,7 +190,7 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prb
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FIJ7JXPCVqvVcQNCLio3u4NYiCnj_KZbE%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA0DxKGqu7KLXjKA_A4fpMpwyJrXk6JgKNg9UKAor-gHw%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gG2Pej0PRUopTlQuYdO2lQ%3D%3D%22%7D
 
 *TheCruisers*:
-https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FeAQKvcZb3nNDKbL9jpY2BHRiJ7epAAzZ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAaBFEY0KZm5z1-hKucCSsEpxXYeaWWHnGtiRemnr5rAE%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Gidnw9jJvkSMBCkDPILNgQ%3D%3D%22%7D
+https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FT078BiSZQt_PZK0KZ3PCLg1N2XUC1yZQ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAhmk5kEWpnaQiOOzaRsB_gl41QQUgurSKlM3sRY-lqi8%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22NhWw9f3ZAf_k_O4acCxNxg%3D%3D%22%7D
 
 *KTM* (KTM motorcycles group):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FzbiuVHJF8ClgsUaFGtoA7BV1K12C0RH-%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAPt3_--r5j1V8dvn7RBJIl6boiobwui1yj1hsKMJU3mo%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%2244RNWU8zm8QILRvrYZyxdg%3D%3D%22%7D
