@@ -85,6 +85,9 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZ
 
 !4 Software & Related!
 
+*DistroHopper* (in beta - Quickly download, create and run VM of any operating system):
+https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FnTkG5MBnhRsRTb4heK-8J9jo0Vqc43q2%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA-Go_Cwwzp419dls_-cmYvePuTyKdZ6bsrXAy8K1Sizc%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%228L5-Gq789MCV_wUQuNtTLg%3D%3D%22%7D
+
 *Open Source*:
 !2 direct!
 !2 voice!
@@ -92,7 +95,6 @@ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4
 
 *FreeSoftware* (Free as in Freedom):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2Fed9aO8bUF6I1nBdE_nwQaN0PJCwc1350%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEABLYrgwGB4O4UJIYS9l9GkuVmqQst4W9oCMbLHr1GsyM%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22VTSjBIwIJQ7Ewdp4O8Nlug%3D%3D%22%7D
-
 
 *AI-Generated Art*:
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FiTgecSRu7Tn2nmKkqqer_K4UTCHk1Pkg%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAbE3kQHYp4g4ZifHJb9ZJgkdY70oxDWccWtmrxhRqvEM%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22x8_OIXbIixmJdJr6lg-g4w%3D%3D%22%7D
@@ -108,16 +110,11 @@ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZG
 *Hack Liberty* (Cypherpunk community room):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FmoQ7oX9zvAX98kvW9e7ap4dLn0UymDhH%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAriOD6vVb9eraQFgnB9eT3hIyzFJOoUQ7tFdPUpvOVVw%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22knogxOxwA6nV1aCiEdgzhg%3D%3D%22%7D
 
-*DistroHopper* (in beta - Quickly download, create and run VM of any operating system):
-https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2Fhlw2RhZPAIvVMyA9k3vQefhFnyrzkv-z%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAhNMv2SvGx4X5n7RPJFyIzj6IwJJ8qOSvFXnVqgIxdWU%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%225zlNMxViN-0SxlMAYqSSQA%3D%3D%22%7D
-
 *SOS* (Software Operating Systems):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FmU6V6C7tyEMkhXM9q-GAhx1RUPtA8wrb%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAERI8cwr_nB4M0KauKIvGhA-LOQTm3sbX185quEvKbGk%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22jmQNAQBUsp3awcLY8ZjRzw%3D%3D%22%7D
 
-
 */sci/* (Science & Maths):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FsxSOuFKSqkXz1SgFtJfMrYW_-VrQdtxQ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA1HgxvIOUHwxPWAjXjH7Lw14SJgmkbbITlN0hByQ93E4%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22HGiu8CJInTRoU-0Srqm53Q%3D%3D%22%7D
-
 
 *Nostr*:
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FRlICV6V4cT9grtbkuZnOffCcuZgFqTsr%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAru--JZy-eVm8KjE3K9U9U4Wwk-xBaiKy-_1xeOcy_RQ%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22C6CH60nh8xeM4-7rto19Ug%3D%3D%22%7D
@@ -125,21 +122,17 @@ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZG
 *Nostriches*:
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2Fj5M4aet7oFpiw8xKG4YMql6PihNA2qRW%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAkXpa1gSjfzbmUxMJQRie79owG3NZH3P1vAyzNbAK3zs%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22rqMPdqj4SuWTbiGL5frnxA%3D%3D%22%7D
 
-
 *Priceless Crypto* (Talk about cryptocurrency but without discussing or speculating on price):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FCCi84pT4Pv9yqu9TzpuctkPiJEa--tgK%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAsN059LyfEv25GJllxKLLymRNbuHGrWqem6k0aEa8zDM%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22A-WWh1GtISdGMoMVShmDnQ%3D%3D%22%7D
 
 *Bitcoin&LightningNetwork* (Bitcoin & Lightning Network):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2F6dNk57UTVN7EF6r1O9LaOyI9Opx7Az9s%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEASuPrFrvyC44b-tgZpEu5dfDhN2HX1kKLOzIoR8UrBzY%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22GvuLoG20itjrTh8rVzR8Ig%3D%3D%22%7D
 
-
 *Briar🇩🇪/🇬🇧* (briarmessengertalk):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FHXxZlrpS_S1qIxIgQ1977Drx60gusGAl%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA7se1Uei6egGr7x1Id7dVuZWUofip37-xU04YwEPKGz4%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%229sNq0Hs3GqBFfpqWzR46qg%3D%3D%22%7D
 
-
 *Crypto* (Anarchists):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FPtYA7O5W4SolX3deapLeQ-0Fr9Y047Ga%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAWqlraG8QwZs4HOYtqPdH9nPoXtwcgC8dkpvdnEVjGy0%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22UPgrranQbTveYrD9TWMlLA%3D%3D%22%7D
-
 
 *Monero&PrivacyCoin* (Monero & Privacy Coin):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FlG8iICBMC11b1Tvwi5UNhtbBVND4sEdF%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAciIsZEcoYgI97bE08qdb3bv9HgE6RK2eVE0FvO7F13M%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22UHBD5vOaGzQ-fnGIvx-6Zw%3D%3D%22%7D
@@ -147,21 +140,17 @@ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28
 *moneroturko* (Monero Türkçe):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FH2qIDsky9XLOdwscH0UIJaZqYbnsAt10%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEALBZKCmhgVBQV4rcFRtXq8P6Q0W7zgUBMpWi1kdQobnc%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22y0lGGBPCRJOfEcdXCRWRrw%3D%3D%22%7D
 
-
 *The Binding of Isaac*:
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FTkh5WW2URgDfU2ReMGW2z9_hLCfmPIpZ%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA6yg9CluFTx3OI4ushp4Js4H1ZYuRc1AxNvcVhwmxZxs%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22gGIkXvOeFOQuIVGTM7SgbQ%3D%3D%22%7D
 
-
 *ComunicareViaRadio*:
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2F0jKsuq8eqPV5xgXP4l9ZwmUEEBUFq_Bc%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA7r0tY1tkxCajp1KO72NQ0BT64Gh4UsQBnSN1yJ4JPho%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22EEcwdKkDPuAApEC78lmzig%3D%3D%22%7D
-
 
 *PSA-2* (Privacy Security Anonymity):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2F3EDHk8oiLEW-IxrKACWNCv9YVO7JiLyy%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAGRUp7ar8_M58-dPjBqno1IiWrvKVZ6TEuBWF71f-WWM%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22E_qexehgVUGlPv2f3neZPQ%3D%3D%22%7D
 
 *PSA-Switzerland* (Privacy Security Anonymity - Switzerland):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FFHiv5_94tP8wxeva32KO7c0sCPa_ojcx%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA3IWe4TzZs7Y306h07xE1B-_T6pv70OBqWKpvdrP3vQ4%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Gx96MuO6PFtVeL9zWJ0zFA%3D%3D%22%7D
-
 
 *Memes* (v3.0):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2F11LgJOFSokzo4F9agUozmtKunnOntRor%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAAekKQhLpTizO1EBUKZr6ahY84YC8OIWNtvg1YqGlIFk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22oxGvr9H1DWcoO6-VooRJ8g%3D%3D%22%7D
@@ -172,13 +161,11 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZ
 *Gamers!* (For gamers by gamers):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FzAGrg2WF2oGhuhQ27_EoPx8-0W-dVd1K%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAfH31rEneavTiWTnCiEPM0NOAQtzQoQLjDUb_HtUlgV4%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22waYtd41xnp_HWZ8bqMQxxw%3D%3D%22%7D
 
-
 *music* (Share music you like...):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2F7bLvbQQvoDbT888pZ3235xndQYQm8cqo%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAT7cKWtTcDLHO05u4XAMPywcFXJekI3gpcCmOrLM72jc%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22HjATlhOsJuMQ4BqU4JN4LA%3D%3D%22%7D
 
 *Movies!* (Movie discussions):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FZ4W_ItUYotl1HdJicMyJb2tPpgh99772%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAfr6O08rvaivACMweR1AhOJFoRO1Z7PLMwJh1OA0LPAg%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22-OSY11E2fA25-LZg_v2sjg%3D%3D%22%7D
-
 
 *Trans Lounge* (Transgender):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FMAdvewPQIBwAZlxkE61n61ZWxxX9OfWv%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAtHNgqSkNlGBbUtRTwG-JiorajB8sT7yB_iX0fl_Nrxg%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%222Z3R8ZVh3iEGyIpH8toMTw%3D%3D%22%7D
@@ -195,7 +182,6 @@ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGn
 *KTM* (KTM motorcycles group):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FzbiuVHJF8ClgsUaFGtoA7BV1K12C0RH-%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAPt3_--r5j1V8dvn7RBJIl6boiobwui1yj1hsKMJU3mo%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%2244RNWU8zm8QILRvrYZyxdg%3D%3D%22%7D
 
-
 *TheAustrian* (Sharing Austrian Economics Resources & Ideas):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FBItDmcY3ZcSPjChRn8_SOnjIFPjE_QDk%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqp2ai1sk0iwMkZh1Y3_L7TbQk7qF8AelhrIdoYZV-3I%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22u7OJFlxDs3_7uqR-Y1M49Q%3D%3D%22%7D
 
@@ -205,10 +191,8 @@ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZG
 *Starfield* (Starfield game descussion):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2F3iBYHJqJO997B4VCGvhq3EHb9ou3UgGH%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAZQqSDpUHfGukP7jsEG77U1dkuX7RorglKwNGo_QBc1Q%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22BhgYh03mK5FTbCxZFMEpJQ%3D%3D%22%7D
 
-
 *HaskellX*:
  https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FVdA_UyRn_0fGKyh9H9n2e87_tgFKJxN4%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqzgUk6aPb9eGYqzo3YDMp7HD0YyGvnd1tYe4RFQpiCo%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%228T0GJER7GiVNpj5wr_3kgg%3D%3D%22%7D
-
 
 –––
 
