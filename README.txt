@@ -108,7 +108,7 @@ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZG
 *Hack Liberty* (Cypherpunk community room):
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FmoQ7oX9zvAX98kvW9e7ap4dLn0UymDhH%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAriOD6vVb9eraQFgnB9eT3hIyzFJOoUQ7tFdPUpvOVVw%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22knogxOxwA6nV1aCiEdgzhg%3D%3D%22%7D
 
-*DistroHopper* (in beta, dh.osowoso.xyz - Quickly download, create and run VM of any operating system):
+*DistroHopper* (in beta - Quickly download, create and run VM of any operating system):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2Fhlw2RhZPAIvVMyA9k3vQefhFnyrzkv-z%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAhNMv2SvGx4X5n7RPJFyIzj6IwJJ8qOSvFXnVqgIxdWU%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%225zlNMxViN-0SxlMAYqSSQA%3D%3D%22%7D
 
 *SOS* (Software Operating Systems):
