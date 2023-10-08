@@ -158,6 +158,9 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZ
 *Freedom of Speech*:
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FROSeCcqgm0PmyZcFdJXjA2k_NrhcH1Cc%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqFwbiS0F0q4jfWeYFGkGdhvpcPHPepmNk_KmAsw1Hhk%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Q3MWoSI8ScfSQymu5tEzKg%3D%3D%22%7D
 
+*Spirituality group* (Here we discuss wisdom of ancients, meditation, finding inner peace, awakening and enlightenment, the inner connectedness of all things, astral travel / out of body experiences (oobe), other realms and realities, levels of existence, the science and physiological processes behind enlightenment and other experiences, the science of creation, divine laws, spiritual psychology and more.):
+https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPtsqghzQKU83kYTlQ1VKg996dW4Cw4x_bvpKmiv8uns%3D%40smp18.simplex.im%2F3YZo89HHsPYJHchheXf_ImZ098E_J9HG%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA0QiJQHBWthBJ7H9HGc1PmeO3wGszmdT--dth97rOvEc%253D%26srv%3Dlyqpnwbs2zqfr45jqkncwpywpbtq7jrhxnib5qddtr6npjyezuwd3nqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%2284arD1eNRAu3gf3Y8I8JmQ%3D%3D%22%7D
+
 *Gamers!* (For gamers by gamers):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FzAGrg2WF2oGhuhQ27_EoPx8-0W-dVd1K%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAfH31rEneavTiWTnCiEPM0NOAQtzQoQLjDUb_HtUlgV4%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22waYtd41xnp_HWZ8bqMQxxw%3D%3D%22%7D
 
