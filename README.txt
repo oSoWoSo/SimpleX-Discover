@@ -197,6 +197,9 @@ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4
 *HaskellX*:
  https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FVdA_UyRn_0fGKyh9H9n2e87_tgFKJxN4%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqzgUk6aPb9eGYqzo3YDMp7HD0YyGvnd1tYe4RFQpiCo%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%228T0GJER7GiVNpj5wr_3kgg%3D%3D%22%7D
 
+*Freedom Chat Uncensored* (Post anything you want. Just don't spam or promote terrorism):
+https://simplex.chat/contact#/?v=1-3&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2FI3wvysZLDiPcMH9y_rrvhj_ZODueAlV3%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAbKwh3tNP5pmj2a_YWPKk8ME48UfpWH15M4gKt4Cgsy8%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22hAj4K-6cVJz5vcCK0y3yug%3D%3D%22%7D
+
 –––
 
 https://simplex.chat/contact#/?v=1&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FMtQrubMgP6ytJ9jghleOC5KHeaX5fMYS%23%2F%3Fv%3D1%26dh%3DMCowBQYDK2VuAyEAm6j3psqPlOb8WRoypy6LKU_xWHpZNA-J90EITPsePmg%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion
