@@ -265,8 +265,7 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4
 *Nederlands* (Nederlandstalige SimpleX gebruikers):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2Fc8GIUfryM4sPLPeWU0Zn3ViTlL8vCtFo%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAh_-q8lA-IPgHOA6FkZdDnQ2i2FTXs9hGPz1VJivsnCk%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%220BtUFHlfvD64M1OA1_4ipg%3D%3D%22%7D
 
-*Древо жизни* – группа для серъёзных и адекватных цивилизованных людей по любым жизненно значимым темам.
-Russian speaking group *Tree of Life* for serious subjects, emphasis on critical thinking and long-term traditional values.
+*Древо жизни* – группа для серъёзных и адекватных цивилизованных людей по любым жизненно значимым темам. (Russian speaking group *Tree of Life* for serious subjects, emphasis on critical thinking and long-term traditional values):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2FCUHaJU5Y8QSR92vU-6YxaK0d5f2aal3T%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAwr3_6r4lgyrhedsGt23Blmb-tMZFZ9XW8gMLbP-Vy3I%253D%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%229aFVu67goLe_sWH796V3jw%3D%3D%22%7D
 
 –––
