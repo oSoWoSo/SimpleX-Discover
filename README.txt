@@ -99,9 +99,6 @@ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28
 *AI-Generated Art*:
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FiTgecSRu7Tn2nmKkqqer_K4UTCHk1Pkg%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAbE3kQHYp4g4ZifHJb9ZJgkdY70oxDWccWtmrxhRqvEM%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22x8_OIXbIixmJdJr6lg-g4w%3D%3D%22%7D
 
-*GrapheneOS* (GrapheneOS unofficial):
-https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FUmB9Oppb6rAgSs9SgKw1DFp8qgqbPi37%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAloSF4fSj7LWgzvHTy9E3znJAs78WvPn4lPQYM5jfRl4%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22X8x7Jpo2gwrHIZZSPbgCYg%3D%3D%22%7D
-
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2F_KnOUOA85t58gsHZPYN8wrcBq0y6Z7WA%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAG7ic8IzwO7ry95vmmkXkoiSHVdKOUq77W7C3bA7TBG0%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%229HgP7XKEyyc7ter8Iq2yoQ%3D%3D%22%7D
 
 *Bash/Sh* (Awesome 🐚 shell scripting):
