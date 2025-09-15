@@ -1,4 +1,4 @@
-Eventually obsolete by SimpleX-Directory service
+# Obsolete by SimpleX-Directory services
 
 ------
 *SimpleX–Directory*
